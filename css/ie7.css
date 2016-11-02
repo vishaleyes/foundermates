@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.secpart .secleft .formdiv fieldset input { float:left; width:226px; font:normal 12px Verdana, Geneva, sans-serif; color:#000; border:1px solid #cdced2; margin-left:5px;}
+.secpart .secleft .formdiv fieldset.ad { float:left; border:none; background:none; width:100%; margin:0px 0px 3px; padding:0px;}
+.secpart .secleft .formdiv fieldset.ad input { float:left; width:226px; font:normal 12px Verdana, Geneva, sans-serif; color:#000; border:1px solid #cdced2; margin:0px 0px 3px 5px;}
+.secpart .secleft .formdiv fieldset div input { float:left; font:normal 12px Verdana, Geneva, sans-serif; color:#000; border:1px solid #cdced2; width:70px; margin-left:-5px !important; padding:0px;}
+.secpart .secleft .formdiv fieldset div {float:left; width:228px; margin:0px 0px 15px 5px;font:normal 12px Verdana, Geneva, sans-serif; color:#000;}
+.secpart .secleft .formdiv fieldset input[type="radio"] { float:left; border:none; margin:3px 0px 0px; padding:0px; width:12px; height:12px;}

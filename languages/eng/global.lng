@@ -1,0 +1,2122 @@
+//Global
+_BTN_SUBMIT_=Submit
+_BTN_CONTINUE_=Continue
+_BTN_CANCEL_=Cancel
+_BTN_OK_=Ok
+_BTN_LOGIN_=Login
+_BTN_LOGOUT_=Logout
+_BTN_ADD_=Add
+_BTN_CLEAR_=Clear
+_BTN_YES_=Yes
+_BTN_NO_=No
+_BTN_CLOSE_=Close
+_BTN_APPLY_=Apply
+_BTN_SAVE_=Save
+_BTN_ADD_ACM_=Add account manager
+_BTN_HIRE_NOW_=Hire now
+_BTN_ACCEPT_=ACCEPT
+_BTN_DECLINE_=DECLINE
+_BTN_UPDATE_=Update
+_BTN_SEARCH_=Search
+_BTN_RESET_=Reset
+_BTN_SEND_=Send
+
+//----------------------------------------------------------------------- USER FOLDER ------------------------------------------------------------------------------------------//
+
+//About page
+
+_THEME_NAME_=_SITENAME_NO_CAPS_
+_ABOUT_HEADER_=About _SITENAME_.com
+_SITE_LINK_=http://www._SITENAME_NO_CAPS_.com
+_LOGO_ALTER_=_SITENAME_.com
+_SITENAME_=_SITENAME_
+_SITENAME_NO_CAPS_=_SITENAME_NO_CAPS_
+_ABOUT_DESCRIPTION_=<p>_SITENAME_.com is a new way for employers to connect with seekers seeking hourly jobs in real time!</p> <p><b>Employers</b> do not need to visit a website to post jobs or connect with candidates. And <b>Seekers</b> do not need a website to get found. You can use _SITENAME_NO_CAPS_ right from your phone - SMS, iPhone app, Android app, mobile web etc. And of course you can use the traditional website _SITENAME_NO_CAPS_.com.</p>
+
+<p>With _SITENAME_, employers and seekers find an instant match near them.</p>
+
+<p>Come, join the revolution! Find an instant match near you. </p>
+
+//Activate page
+_ACTIVATE_HEADER_=Account activation
+_ACTIVATE_EMAIL_ACTIVATION_=Email activation.
+_ACTIVATE_EMAIL_=Email
+_ACTIVATE_CAPTCHA_=Captcha
+_ACTIVATE_ENTER_TEXT_=Enter below text
+_ACTIVATE_CHANGE_CAPTCHA_=Change Captcha
+_ACTIVATE_PHONE_ACTIVATION_=Phone number activation.
+_ACTIVATE_PHONE_=Phone number
+
+//Agreement page
+_AGREEMENT_ACCEPT_=ACCEPT
+_AGREEMENT_DECLINE_=DECLINE
+
+//Contact page
+_CONTACT_HEADER_=Contact Us
+_CONTACT_NAME_=Your name
+_CONTACT_EMAIL_=Your email address
+_CONTACT_COMMENT_=Your comment or question
+_CONTACT_ENTER_TEXT_=Enter below text
+_CONTACT_CHANGE_CAPTCHA_=Change Captcha
+
+//Employer page
+_EMPLOYER_HEADER_=Employer Signup
+_EMPLOYER_BUSINESS_=Your business
+_EMPLOYER_DESCRIPTION_=Please tell us a bit about your business. Name, contact person etc. The contact person is the first account manager for this account and you will use contact person's email or phone number to login to your _SITENAME_NO_CAPS_.com account. You can add more account managers for your business.
+_EMPLOYER_BUSINESS_NAME_=Business name
+_EMPLOYER_ADDRESS_=Business address
+_EMPLOYER_CITY_=City
+_EMPLOYER_STATE_=State
+_EMPLOYER_ZIPCODE_=Zipcode
+_EMPLOYER_CONTACT_NAME_=Contact Person name   
+_EMPLOYER_FIRST_NAME_=First Name
+_EMPLOYER_LAST_NAME_=Last Name
+_EMPLOYER_EMAIL_PHONE_=Please specify email or phone or both
+_EMPLOYER_EMAIL_=Email
+_EMPLOYER_PHONE_=Phone number
+_EMPLOYER_VERIFY_NOW_=Verify now
+_EMPLOYER_RECEIVE_SMS_=Can receive SMS on this?
+_EMPLOYER_VERIFY_PHONE_=To verify the phone number, text "Verify
+_EMPLOYER_VERIFY_NUMBER_=to (408)645-7916.
+_EMPLOYER_OK_=OK
+_EMPLOYER_PASSWORD_=Password
+_EMPLOYER_CONFIRM_PASSWORD_=Confirm password
+_EMPLOYER_OCCUPATION_=Occupations
+_EMPLOYER_OCCUPATION_INFO_=Please let us know what kind of occupations do you have at your business. 
+_EMPLOYER_SELECTION_=Selection:
+_EMPLOYER_SELECTED_=You have selected:
+_EMPLOYER_CONTACT_METHOD_=Preferred method of contact
+_EMPLOYER_ALERT_=You can receive alerts via email or SMS or both.
+_EMPLOYER_TOS_=Term of service
+_EMPLOYER_AGREEMENT_INFO_=By checking the checkbox "Agreement Accepted" below, you are agreeing to comply with the terms of use for employers located at the following web address
+_EMPLOYER_AGREEMENT_ACCEPTED_=Agreement accepted
+_EMPLOYER_SAFE_=Safe &amp; Secure
+_EMPLOYER_QUICK_=Quick &amp; Easy
+_EMPLOYER_CLEAR_=Clear &amp; Simple
+_EMPLOYER_REQUIRED_=Fields marked with * are required.
+
+//Feedback page
+_FEEDBACK_HEADER_=Feedback
+_FEEDBACK_DUPLICATE_ACCOUNT_=I have a duplicate account
+_FEEDBACK_MANY_EMAILS_=I am getting too many emails
+_FEEDBACK_MEMBERSHIP_=I am not getting any value from my membership
+_FEEDBACK_DIFFERENT_SERVICE_=I am using a different professional service
+_FEEDBACK_CONTINUE_=Continue
+_FEEDBACK_OTHER_=Other
+
+//Forgot password page
+_FORGOT_HEADER_=An information line for _SITENAME_ goes here..
+_FORGOT_PASSWORD_=Forgot Password
+_FORGOT_JOIN_=Join today
+_FORGOT_EMAIL_PHONE_=Enter Email or Phone number:
+_FORGOT_EMAIL_PHONE_VAL_=Email or Phone number
+
+//Help page
+_HELP_NEED_HELP_=Looks like you need some help?
+_HELP_FIND_SOLUTION_=Let us help you find a solution.
+_HELP_FORGOT_PASSWORD_=I forgot my password
+_HELP_ACCOUNT_INACTIVE_=My account is inactive
+_HELP_CONTACT_US_=Contact us and we'll help you out
+
+//Index page
+_HOME_SLOGAN_=_SITENAME_ is a new way to find an hourly job or recruit all your hourly workers.
+_HOME_NEW_TO_FJN_=New to _SITENAME_NO_CAPS_?
+_HOME_SEEKER_SIGNUP_=Seeker Signup
+_HOME_ALREADY_ON_FJN_=Already on _SITENAME_NO_CAPS_?
+_HOME_SIGNIN_=Sign in
+_HOME_SIGNUP_=Sign up
+_HOME_FJN@2012_=_SITENAME_ © 2012
+_HOME_FJN_COM_=finditnear.com
+_HOME_LANGUAGE_=Language
+_HOME_HOME_=Home
+_HOME_ABOUT_=About
+_HOME_MOBILE_=Mobile
+_HOME_PRIVACY_=Privacy
+_HOME_T&C_=Terms &amp; Conditions
+_HOME_CONTACT_US_=Contact us
+_HOME_EMAIL_OR_PHONE_=Email/phone
+_HOME_REMEMBER_IT_=Remember it
+_HOME_PASSWORD_=Password
+_HOME_I_CANT_ACCESS_ACCOUNT_=I can't access my account
+_HOME_FIRST_NAME_=First Name
+_HOME_LAST_NAME_=Last Name
+_HOME_EMAIL_=Email   
+_HOME_PHONE_NUMBER_=Phone Number
+_HOME_WELCOME_=Welcome
+
+//Listbox page
+_LISTBOX_HOST_=Host/Hostess
+_LISTBOX_WAITER_=Waiter/Waitress
+_LISTBOX_BARTENDER_=Bartender 
+_LISTBOX_SALESPERSON_=Salesperson
+_LISTBOX_CASHIER_=Cashier
+_LISTBOX_STOCK_CLERK_=Stock Clerk/Order Filler
+_LISTBOX_HOUSEKEEPER_=Housekeeper
+_LISTBOX_DESK_CLERK_=Desk Clerks
+_LISTBOX_LAUNDRY_=Laundry
+_LISTBOX_JANITOR_=Janitor / Cleaner
+_LISTBOX_SECURITY_=Security Guards
+_LISTBOX_GROUNDSKEEPER_=Groundskeeper
+_LISTBOX_SELECT_=Select
+_LISTBOX_SELECTED_=You have selected:-
+_LISTBOX_REMOVE_=Remove
+				
+//Mobile page
+_MOBILE_HEADER_=_SITENAME_.com is MOBILE!
+_MOBILE_DESCRIPTION_=<p><b>Find our app on your phone:</b></p>
+_MOBILE_DESCRIPTION1_1_=<p>iPhone, Android or go to 
+_MOBILE_DESCRIPTION1_2_=_SITENAME_NO_CAPS_.com/m/	
+_MOBILE_DESCRIPTION1_3_=on ANY phone</p>
+
+//Password confirm page
+_PASSWORD_CONFIRM_HEADER_=Forgot password verification
+_PASSWORD_CONFIRM_TOKEN_=Verification Code :
+_PASSWORD_CONFIRM_NEW_PASSWORD_=New Password : 
+_PASSWORD_CONFIRM_CONFIRM_PASSWORD_=Confirm Password :
+_PASSWORD_CONFIRM_OR_=Or
+_PASSWORD_CONFIRM_JOIN_=Join _SITENAME_NO_CAPS_
+
+//Privacy page
+_PRIVACY_HEADER_=Privacy
+_PRIVACY_DESCRIPTION_=<ol>
+					<li><label>Your privacy is our top concern</label>
+						<p>We work hard to earn and keep your trust, so we added here to the following principles to protect your privacy:</p>
+						<ul>
+							<li>We do not rent or sell your personally identifiable information to third parties for marketing purposes.</li>
+							<li>We do not share your contact information with another User without your consent.</li>
+							<li>Any personally identifiable information that you provide will be secured with industry standard protocols and technology.</li>
+							<li>We don't send you unsolicited communications for marketing purposes.</li>
+							<li>We offer identity anonymization &amp; relay, to reduce 3rd party harvesting &amp; spam.</li>
+							<li>Account information is password-protected. Keep your password safe.</li>
+							<li>_SITENAME_CAPS_.COM, or people who post on _SITENAME_CAPS_.COM, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited.</li>
+						</ul>
+
+						<p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use _SITENAME_CAPS_.COM after notice of changes have been sent to you or published on our website, you are consenting to the changes.</p> 
+						<p>Due to the communications standards on the Internet, when you visit the _SITENAME_CAPS_.COM web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave _SITENAME_CAPS_.COM. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the _SITENAME_CAPS_.COM service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.</p>
+						<p>Certain information you provide to _SITENAME_CAPS_.COM may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to _SITENAME_CAPS_.COM for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and _SITENAME_CAPS_.COM's User Agreement. The supplying of all such information by you to _SITENAME_CAPS_.COM, including all information deemed 'sensitive' by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.</p>
+						<p>You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.</p> </li>
+					<li> <label>Data we collect</label>
+						<ul>
+							<li>We collect your email address, phone number, social network accounts, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc.</li>
+							<li>We collect your email, phone number, social network accounts information for account authentication purposes, SMS, phone calls etc. for sending you communication as you request.</li>
+							<li>Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the _SITENAME_CAPS_.COM site, and to otherwise provide our service to you.</li>
+						</ul>
+					</li>
+					<li> <label>Data we store</label>
+						<ul>
+							<li>All postings are stored in our database, even after "deletion," and may be archived elsewhere.</li>
+							<li>Our web logs and other records are stored indefinitely.</li>
+							<li>Registered job posters can access and update their account information through the account homepage.</li>
+							<li>Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.</li>
+						</ul>
+
+					</li>
+					<li> <label>Archiving and display of _SITENAME_CAPS_.COM postings by search engines and other sites</label>
+						<p>Search engines and other sites not affiliated with _SITENAME_CAPS_.COM - including google.com, and yahoo.com - archive or otherwise make available _SITENAME_CAPS_.COM postings.</p> </li>
+					<li> <label>Circumstances in which _SITENAME_CAPS_.COM may release information </label>
+						<ul>
+							<li>_SITENAME_CAPS_.COM may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.</li>
+							<li>_SITENAME_CAPS_.COM may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of _SITENAME_CAPS_.COM, its users or the general public.</li>
+						</ul>
+					</li>
+					<li> <label>International Users</label>
+						<p>By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of _SITENAME_CAPS_.COM we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.</p> </li>
+					
+				</ol> 					
+_PRIVACY_EMAIL_=privacy@_SITENAME_CAPS_.COM		
+
+//Seeker page
+_SEEKER_REG_REGISTRATION_=Seeker Signup
+_SEEKER_REG_YOURACCOUNT_=Your account
+_SEEKER_REG_ABOUT_YOURSELF_=Please tell us abour your self. You will use your email or phone number to login to your _SITENAME_NO_CAPS_.com account
+_SEEKER_REG_FULL_NAME_=Full name
+_SEEKER_REG_FIRST_NAME_=First Name
+_SEEKER_REG_LAST_NAME_=Last Name
+_SEEKER_REG_EMAIL_=Email
+_SEEKER_REG_PHONE_=Phone Number
+_SEEKER_REG_VERIFY_NOW_=Verify now
+_SEEKER_REG_SMS_=Can receive SMS on this? 
+_SEEKER_REG_VERIFY_PHONE_=To verify the phone number, text "Verify
+_SEEKER_REG_VERIFY_NUMBER_=to (408)645-7916.
+_SEEKER_REG_OK_=OK
+_SEEKER_REG_PASSWORD_=Password
+_SEEKER_REG_CONFIRM_PASSWORD_=Confirm password
+_SEEKER_REG_OCCUPATION_=Occupation preferences
+_SEEKER_REG_TELL_US_=Please tell us what kind of job you would like
+_SEEKER_REG_SELECTION_=Selection:
+_SEEKER_REG_SELECTED_=You have selected:
+_SEEKER_REG_EXPERIENCE_=Experience
+_SEEKER_REG_AGE_=Your age (for restricted jobs that require minimum age 16, 18  or 21).
+_SEEKER_REG_PAYRANGE_=Pay range
+_SEEKER_REG_JOBTYPE_=Job type
+_SEEKER_REG_WORKSCHEDULE_=Work schedule
+_SEEKER_REG_WORKSHIFT_=Work shift
+_SEEKER_REG_LANGUAGE_=Languages
+_SEEKER_REG_WORKLOCATION_=Work/Location preferences
+_SEEKER_REG_MATCHING_AREA_=You will receive alerts whenever jobs matching your profile become available in the following areas
+_SEEKER_REG_ADDRESS_=Full street address, city name or zipcode
+_SEEKER_REG_RADIUS_=Radius
+_SEEKER_REG_CONTACT_METHOD_=Preferred method of contact
+_SEEKER_REG_ALERT_=You can receive alerts via email or SMS or both
+_SEEKER_REG_TOS_=Term of service
+_SEEKER_REG_AGREEMENT_INFO_=By checking the checkbox "Agreement Accepted" below, you agree to comply with the terms of use for seekers located at the following web address
+_SEEKER_REG_AGREEMENT_ACCEPT_=Agreement accepted
+_SEEKER_REG_SAFE_=Safe &amp; Secure
+_SEEKER_REG_QUICK_=Quick &amp; Easy
+_SEEKER_REG_CLEAR_=Clear &amp; Simple
+_SEEKER_REG_REQUIRED_=Fields marked with * are required.
+
+//Sign in page
+_SIGNIN_HEADER_=Sign in to _SITENAME_NO_CAPS_
+_SIGNIN_EMAIL_PHONE_=Email or Phone
+_SIGNIN_PASSWORD_=Password 
+_SIGNIN_CANT_ACCESS_=I can't access my account
+_SIGNIN_REMEMBER_=Remember it
+_SIGNIN_SIGNIN_=Sign In
+_SIGNIN_OR_=Or
+_SIGNIN_JOIN_=Join _SITENAME_NO_CAPS_
+
+//Verify phone page
+_VERIFY_PHONE_HEADER_=Account Activation Required
+
+//------------------------------------------------------------------- SEEKER FOLDER ---------------------------------------------------------------------------//
+
+//Allocation page
+_SEEKER_ALLOCATION_NO_WORKLOCATION_=No work/location preferences configured.
+_SEEKER_ALLOCATION_RECEIVE_JOB_ALERT_=You will receive alerts for jobs:
+_SEEKER_ALLOCATION_WITHIN_=within
+_SEEKER_ALLOCATION_MILES_=miles of
+
+//Edit profile page
+_SEEKER_PROFILE_PROFILE_=Profile
+_SEEKER_PROFILE_FULL_NAME_=Full name
+_SEEKER_PROFILE_EMAIL_=Email
+_SEEKER_PROFILE_AGE_=Age
+_SEEKER_PROFILE_COMMUNICATION_METHOD_=Preferred method of communication
+_SEEKER_PROFILE_OCCUPATION_=Occupation Preferences
+_SEEKER_PROFILE_SELECTION_=Selection:
+_SEEKER_PROFILE_SELECTED_=You have selected:
+_SEEKER_PROFILE_PAYRANGE_=Pay range
+_SEEKER_PROFILE_WORKSHIFT_=Work shift
+_SEEKER_PROFILE_WORK_SCHEDULE_=Work schedule
+_SEEKER_PROFILE_LANGUAGE_=Language
+_SEEKER_PROFILE_JOBTYPE_=Job type
+_SEEKER_PROFILE_EXPERIENCE_=Experience in this occupation
+
+//Header page
+_SEEKER_HEADER_WELCOME_=Welcome
+_SEEKER_HEADER_HOME_=Home
+_SEEKER_HEADER_PREFERENCES_=Preferences
+_SEEKER_HEADER_LOCATION_=Locations
+_SEEKER_HEADER_PHONE_=Phones
+_SEEKER_HEADER_SETTING_=Settings
+_SEEKER_HEADER_CLOSE_ACCOUNT_=Close account
+_SEEKER_HEADER_OAUTH_=API Access
+
+//Index page
+_SEEKER_INDEX_PROFILE_=Profile
+_SEEKER_INDEX_EDIT_=Edit
+_SEEKER_INDEX_CHANGE_PASSWORD_=Change password
+_SEEKER_INDEX_CHANGE_MY_PASSWORD_=Change my password
+_SEEKER_INDEX_OLD_PASSWORD_=Old password
+_SEEKER_INDEX_NEW_PASSWORD_=New password
+_SEEKER_INDEX_CONFIRM_PASSWORD_=Confirm password
+_SEEKER_INDEX_NO_LOCATION_CONFIGURED_=No work/location preferences configured.
+_SEEKER_INDEX_JOB_ALERT_=You will receive alerts for jobs:
+_SEEKER_INDEX_WITHIN_=within
+_SEEKER_INDEX_MILES_OF_=miles of
+_SEEKER_INDEX_ADD_REMOVE_LOCATION_=Add/Remove location
+_SEEKER_INDEX_ADD_LINKEDIN_=Add linkedin link
+_SEEKER_INDEX_SPECIFY_LINKEDIN_=Please specify your linkedin URL
+_SEEKER_INDEX_EG_LINKEDIN_=e.g. http://www.linkedin.com/...
+_SEEKER_INDEX_ADD_TWITTER_=Add twitter link
+_SEEKER_INDEX_SPECIFY_TWITTER_=Please specify your twitter URL
+_SEEKER_INDEX_EG_TWITTER_=e.g. http://www.twitter.com/...
+_SEEKER_INDEX_ADD_FACEBOOK_=Add facebook link
+_SEEKER_INDEX_SPECIFY_FACEBOOK_=Please specify your facebook URL
+_SEEKER_INDEX_EG_FACEBOOK_=e.g. http://www.facebook.com/...
+_SEEKER_INDEX_ADD_PHONE_=Add Phone number
+_SEEKER_INDEX_VERIFY_NOW_=Verify now
+_SEEKER_INDEX_VERIFIED_=Verified
+_SEEKER_INDEX_ADD_REMOVE_PHONE_=Add/Remove phone
+_SEEKER_INDEX_ADD_EMAIL_=Add email
+_SEEKER_INDEX_DELETE_REQUEST_QUESTION_=Are you sure you want to delete this hire request ?
+_SEEKER_INDEX_UPLOAD_AVATAR_=Upload avatar
+_SEEKER_INDEX_SOCIAL_LINKS_=Social links
+_SEEKER_INDEX_PHONES_=Phones
+_SEEKER_INDEX_EMAIL_=Email
+
+
+
+//Left phonelist page
+_SEEKER_LEFTPHONELIST_ADDPHONE_=Add Phone number
+_SEEKER_LEFTPHONELIST_VERIFY_NOW_=[Verify now]
+_SEEKER_LEFTPHONELIST_VERIFIED_=Verified
+_SEEKER_LEFTPHONELIST_OK_=OK
+
+//Location page
+_SEEKER_LOCATION_WORKLOCATION_=Work/Location preferences (i.e. interested in job in following areas)
+_SEEKER_LOCATION_ADDRESS_=Address
+_SEEKER_LOCATION_RADIUS_=Radius
+_SEEKER_LOCATION_REFRESH_=Refresh
+_SEEKER_LOCATION_LOCATION_=Location
+_SEEKER_LOCATION_NO_WORKLOCATION_=No work/location preferences configured.
+
+//Phone page
+_SEEKER_PHONE_ADDPHONE_=Add/Remove Phones
+_SEEKER_PHONE_PHONE_NUMBER_=Phone Number
+_SEEKER_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+_SEEKER_PHONE_VERIFYNOW_=Verify now
+_SEEKER_PHONE_REFRESH_=Refresh
+_SEEKER_PHONE_NO_=No
+_SEEKER_PHONE_PHONE_=Phone
+_SEEKER_PHONE_STATUS_=Status 
+_SEEKER_PHONE_RECEIVE_SMS_=Receive SMS?
+_SEEKER_PHONE_VERIFIED_=Verified
+_SEEKER_PHONE_DELETE_PHONE_=Are you sure you want to delete this phone ?
+_SEEKER_PHONE_DELETE_=Delete
+
+//Recent activity
+_SEEKER_RECENT_ACTIVITY_HEADER_=Recent activities
+_SEEKER_RECENT_ACTIVITY_NO_ACTIVITY_=No activity posted yet.
+_SEEKER_RECENT_ACTIVITY_READMORE_=Read more
+_SEEKER_RECENT_ACTIVITY_EMPLOYER_ACCOUNT_=Employer does not have an active account.
+
+//Recent hire request
+_SEEKER_RECENT_HIRE_HEADER_=Hire request
+_SEEKER_RECENT_HIRE_DELETE_REQUEST_=Are you sure you want to delete this hire request ?
+_SEEKER_RECENT_HIRE_VIEW_=View details
+_SEEKER_RECENT_HIRE_DELETE_=Delete
+_SEEKER_RECENT_HIRE_APPLY_=Apply for this job
+_SEEKER_RECENT_HIRE_NO_REQUEST_=No active hire requests.
+_SEEKER_RECENT_HIRE_PREVIOUS_=Previous
+_SEEKER_RECENT_HIRE_NEXT_=Next
+
+//Request accept page
+_SEEKER_REQUEST_ACCEPT_HIRE_REQUEST_=Hire Requests For
+_SEEKER_REQUEST_ACCEPT_ADDRESS_=at address
+_SEEKER_REQUEST_ACCEPT_CASHIER_=is hiring a Cashier.
+_SEEKER_REQUEST_ACCEPT_IF_INTERESTED_=If interested Press
+_SEEKER_REQUEST_ACCEPT_INTERESTED_=interested
+_SEEKER_REQUEST_ACCEPT_NO_OFFER_=If do not want any offer from
+_SEEKER_REQUEST_ACCEPT_PRESS_=Press
+_SEEKER_REQUEST_ACCEPT_NOT_INTERESTED_=not interested
+_SEEKER_REQUEST_ACCEPT_NO_MSG_=If do not want to receive any message for 30 days. Press 
+
+//Setting page
+_SEEKER_SETTING_HEADER_=Close my account
+_SEEKER_SETTING_DELETE_CONFIRM_=Are you sure you want to close your account ?
+_SEEKER_SETTING_WHY_CLOSE_=Why would you like to close your account?
+_SEEKER_SETTING_DUPLICATE_=I have a duplicate account
+_SEEKER_SETTING_MANY_MAILS_=I am getting too many emails
+_SEEKER_SETTING_MEMBERSHIP_=I am not getting any value from my membership
+_SEEKER_SETTING_ANOTHER_SERVICE_=I am using a different professional service
+_SEEKER_SETTING_OTHER_=Other
+//View more hire now page
+_SEEKER_VIEW_MORE_EMPLOYER_=Employer
+_SEEKER_VIEW_MORE_PAYRANGE_=Pay range
+_SEEKER_VIEW_MORE_JOBTYPE_=Job type
+_SEEKER_VIEW_MORE_WORK_SCHEDULE_=Work schedule
+_SEEKER_VIEW_MORE_WORKSHIFT_=Work Shift
+_SEEKER_VIEW_MORE_LANGUAGE_=Languages
+_SEEKER_VIEW_MORE_AGE_=Age
+_SEEKER_VIEW_MORE_EXPERIENCE_=Experience
+
+//----------------------------------------------------------------------- TOS FOLDER ------------------------------------------------------------------------------------------//
+
+//Employer page
+_TOS_EMPLOYER_HELP_=Help
+
+//Index page
+_TOS_INDEX_TC_=Terms &amp; Conditions
+_TOS_INDEX_CHECK_=Please check following for terms and conditions for employers and seekers respectively.
+_TOS_INDEX_EMPLOYER_TC_=Employer Terms &amp; Conditions
+_TOS_INDEX_SEEKER_TC_=Seeker Terms &amp; Conditions
+
+//Seeker page
+_TOS_SEEKER_HELP_=Help
+
+
+//----------------------------------------------------------------------- EMPLOYER FOLDER --------------------------------------------------------------------------------------//
+
+
+//My profile page
+_ABOUTME_PHONE_MESSAGE_=Are you sure you want to delete this phone number?
+_ABOUTME_PHONE_CONFIRMATION_DIALOG_=Confirmation dialog
+_ABOUTME_DELETE_EMAIL_ACCOUNT_=Are you sure you want to delete this email account?
+_ABOUTME_EMAIL_CONFIRMATION_DIALOG_=Confirmation dialog
+_MY_PROFILE_=My profile
+_MY_PROFILE_FULL_NAME_=Full name
+_MY_PROFILE_EMAIL_=Email
+_MY_PROFILE_PHONES_=Phones
+_MY_PROFILE_ADD_PHONE_=Add phone number
+_MY_PROFILE_PHONE_VERIFY_NOW_=Verify now
+_MY_PROFILE_PHONE_VERIFIED_=Verified   
+_MY_PROFILE_PHONE_DELETE_NOW_=Delete now
+_MY_PROFILE_ADD_REMOVE_PHONE_=Add/Remove phone
+_MY_PROFILE_PHONE_DELETE_OR_VERIFY_=Please either delete or verify your unverified number.
+_ABOUTME_OR_=or
+_MY_PROFILE_SPECIFY_PHONE_NUMBER_=Please specify the phone number.
+_MY_PROFILE_PHONE_ALREADY_VERIFIED_=You already have a verified number.If you add another previous one will be deleted.
+_MY_PROFILE_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+
+
+//social links
+_MY_PROFILE_SOCIAL_LINKS_=Social links
+_MY_PROFILE_ADD_LINKEDIN_=Add linkedin link
+_MY_PROFILE_SPECIFY_LINKEDIN_=Please specify your linkedin URL
+_MY_PROFILE_EG_LINKEDIN_=e.g. http://www.linkedin.com/...
+_MY_PROFILE_ADD_TWITTER_=Add twitter link
+_MY_PROFILE_SPECIFY_TWITTER_=Please specify your twitter URL
+_MY_PROFILE_EG_TWITTER_=e.g. http://www.twitter.com/...
+_MY_PROFILE_ADD_FACEBOOK_=Add facebook link
+_MY_PROFILE_SPECIFY_FACEBOOK_=Please specify your facebook URL
+_MY_PROFILE_EG_FACEBOOK_=e.g. http://www.facebook.com/...
+_MY_PROFILE_UPLOAD_AVATAR_=Upload avatar
+
+//Account manager page
+_EMPLOYER_ACM_HEADER_=Account manager
+_EMPLOYER_ACM_USER_NAME_=Full name
+_EMPLOYER_ACM_EMAIL_=E-mail
+_EMPLOYER_ACM_PHONE_=Phone number
+_EMPLOYER_ACM_ACTION_=Action
+_EMPLOYER_ACM_EMAIL_=Email
+_EMPLOYER_ACM_FIRST_NAME_=First name
+_EMPLOYER_ACM_LAST_NAME_=Last name
+_EMPLOYER_ACM_PASSWORD_=Password
+_EMPLOYER_ACM_DELETE_ACM_QUESTION_=Are you sure you want to delete this account manager ?
+_EMPLOYER_ACM_DELETE_=Delete
+
+//Header page
+_EMPLOYER_HEADER_STATISTICS_=statistics
+_EMPLOYER_HEADER_BILLING_=billing
+_EMPLOYER_HEADER_IF_NEED_EVENT_=if you need some event after change value!!
+_EMPLOYER_HEADER_WELCOME_=Welcome
+_EMPLOYER_HEADER_HOME_=Home
+_EMPLOYER_HEADER_ACCOUNT_MANAGER_=Account managers
+_EMPLOYER_HEADER_BILLINGS_=Billing
+_EMPLOYER_HEADER_PREFERENCE_=Preferences
+_EMPLOYER_HEADER_LOCATIONS_=Locations
+_EMPLOYER_HEADER_PHONES_=Phones
+_EMPLOYER_HEADER_OCCUPATIONS_=Occupations
+_EMPLOYER_HEADER_STATISTIC_=Statistics
+_EMPLOYER_HEADER_CLOSE_ACCOUNT_=Close account
+
+//Account manager statistics
+_EMPLOYER_ACM_STATISTICS_FNAME_=Firstname
+_EMPLOYER_ACM_STATISTICS_LNAME_=Lastname
+_EMPLOYER_ACM_STATISTICS_EMAIL_=Email
+_EMPLOYER_ACM_STATISTICS_HIRE_REQUEST_SENT_=Number of hire requests sent
+_EMPLOYER_ACM_STATISTICS_CANDIDATE_RECEIVED_=Number of candidates received
+_EMPLOYER_ACM_STATISTICS_PENDING_HIRE_REQUEST_=Number of pending hire requests
+
+//Billing page
+_EMPLOYER_BILLING_SUMMARY_=Summary
+_EMPLOYER_BILLING_CYCLE_DATE_=Billing cycle date
+_EMPLOYER_BILLING_ACCOUNT_CREATED_=Account created on
+_EMPLOYER_BILLING_ACM_=Account Managers
+_EMPLOYER_BILLING_FNAME_=Firstname
+_EMPLOYER_BILLING_LNAME_=Lastname
+_EMPLOYER_BILLING_EMAIL_=Email
+_EMPLOYER_BILLING_ACTIVATED_ON_=Activated on
+_EMPLOYER_BILLING_REMOVED_ON_=Removed on
+
+//Edit profile page
+_EMPLOYER_EDIT_PROFILE_HEADER_=Profile
+_EMPLOYER_EDIT_PROFILE_BUSINESS_NAME_=Business name
+_EMPLOYER_EDIT_PROFILE_ACM_=Account manager
+_EMPLOYER_EDIT_PROFILE_FNAME_=First name
+_EMPLOYER_EDIT_PROFILE_LNAME_=Last name
+_EMPLOYER_EDIT_PROFILE_EMAIL_=Email
+_EMPLOYER_EDIT_PROFILE_TITLE_=Title
+_EMPLOYER_EDIT_PROFILE_BUSINESS_TYPE_=Business type
+_EMPLOYER_EDIT_PROFILE_SELECTION_=Selection:
+_EMPLOYER_EDIT_PROFILE_SELECTED_=You have selected:
+_EMPLOYER_EDIT_PROFILE_CONTACT_METHOD_=Preferred method of contact  
+_EMPLOYER_EDIT_PROFILE_CONTACT_DELETE_EMAIL_=Are you sure you want to delete email from account?
+
+//Hirenow page
+_EMPLOYER_HIRENOW_CAPTION_=Hire request for
+_EMPLOYER_HIRENOW_PAYRANGE_=Pay range
+_EMPLOYER_HIRENOW_BUSINESS_LOCATIONS_=Business locations
+_EMPLOYER_HIRENOW_OCCUPATION_EXPERIENCE_=Experience in this occupation
+_EMPLOYER_HIRENOW_WORKSHIFT_=Work shift
+_EMPLOYER_HIRENOW_WORKSCHEDULE_=Work schedule
+_EMPLOYER_HIRENOW_LANGUAGES_=Languages
+_EMPLOYER_HIRENOW_JOBTYPE_=Job type
+_EMPLOYER_HIRENOW_AGE_=Age
+
+//Index page
+_EMPLOYER_INDEX_PROFILE_=Profile
+_EMPLOYER_INDEX_EDIT_=Edit Preferences
+_EMPLOYER_INDEX_CHANGE_PASSWORD_=Change password
+_EMPLOYER_INDEX_NO_LOCATION_CONFIGURED_=No business location is configured.
+_EMPLOYER_INDEX_BUSINESS_ADDRESS_=Business address:
+_EMPLOYER_INDEX_TOTAL_=Total:
+_EMPLOYER_INDEX_LOCATIONS_=Locations
+_EMPLOYER_INDEX_VIEW_ALL_=View all
+_EMPLOYER_INDEX_ADD_REMOVE_LOCATION_=Add/Remove location
+_EMPLOYER_INDEX_ADD_LINKEDIN_=Add linkedin link
+_EMPLOYER_INDEX_SPECIFY_LINKEDIN_=Please specify your linkedin URL
+_EMPLOYER_INDEX_EG_LINKEDIN_=e.g. http://www.linkedin.com/...
+_EMPLOYER_INDEX_ADD_TWITTER_=Add twitter link
+_EMPLOYER_INDEX_SPECIFY_TWITTER_=Please specify your twitter URL
+_EMPLOYER_INDEX_EG_TWITTER_=e.g. http://www.twitter.com/...
+_EMPLOYER_INDEX_ADD_FACEBOOK_=Add facebook link
+_EMPLOYER_INDEX_SPECIFY_FACEBOOK_=Please specify your facebook URL
+_EMPLOYER_INDEX_EG_FACEBOOK_=e.g. http://www.facebook.com/...
+_EMPLOYER_INDEX_ADD_PHONE_=Add phone number
+_EMPLOYER_INDEX_VERIFY_NOW_=Verify now
+_EMPLOYER_INDEX_VERIFIED_=Verified    
+_EMPLOYER_INDEX_ADD_REMOVE_PHONE_=Add/Remove phone
+_EMPLOYER_INDEX_ADD_EMAIL_=Add email
+_EMPLOYER_INDEX_OCCUPATION_=Occupations
+_EMPLOYER_INDEX_NOT_SELECTED_OCCUPATION_=You have not selected any applicable occupations for your business. Please edit/update .
+_EMPLOYER_INDEX_DELETE_REQUEST_=Are you sure you want to delete this hire request ?
+_EMPLOYER_INDEX_ADD_ACM_=Add account manager
+_EMPLOYER_INDEX_ADD_ACM_NAME_=Account manager name
+_EMPLOYER_INDEX_ADD_ACM_FNAME_=First name
+_EMPLOYER_INDEX_ADD_ACM_LNAME_=Last name
+_EMPLOYER_INDEX_ADD_ACM_TITLE_=Title
+_EMPLOYER_INDEX_ADD_ACM_PASSWORD_=Password
+_EMPLOYER_INDEX_ADD_ACM_PHONE_=Phone number
+_EMPLOYER_INDEX_ADD_ACM_EMAIL_=E-mail id
+_EMPLOYER_INDEX_ADD_ACM_CONFIRM_PASSWORD_=Confirm password
+_EMPLOYER_INDEX_UPLOAD_AVATAR_=Upload Avatar
+_EMPLOYER_INDEX_CHANGE_MY_PASSWORD_=Change my password
+_EMPLOYER_INDEX_OLD_PASSWORD_=Old password
+_EMPLOYER_INDEX_NEW_PASSWORD_=New password
+_EMPLOYER_INDEX_CONFIRM_PASSWORD_=Confirm password
+_EMPLOYER_INDEX_EMAIL_=Email
+_EMPLOYER_INDEX_SOCIAL_LINKS_=Social links
+_EMPLOYER_INDEX_PHONES_=Phones
+_EMPLOYER_INDEX_EMAIL_=Email
+
+
+//Left phone list page
+_EMPLOYER_LEFT_PHONELIST_ADD_PHONE_=Add Phone number
+_EMPLOYER_LEFT_PHONELIST_VERIFYNOW_=Verify now
+_EMPLOYER_LEFT_PHONELIST_VERIFIED_=Verified
+
+//Location page
+_EMPLOYER_LOCATION_HEADER_=Business Locations
+_EMPLOYER_LOCATION_NAME_=Name
+_EMPLOYER_LOCATION_ADDRESS_=Address
+_EMPLOYER_LOCATION_ADDRESS2_=Address2
+_EMPLOYER_LOCATION_CITY_=City
+_EMPLOYER_LOCATION_STATE_=State
+_EMPLOYER_LOCATION_ZIPCODE_=Zipcode
+_EMPLOYER_LOCATION_REFRESH_=Refresh
+_EMPLOYER_LOCATION_LOCATION_=Location
+_EMPLOYER_LOCATION_DEFAULT_=Default
+_EMPLOYER_LOCATION_NO_ADDRESS_FOUND_=No address found.
+_EMPLOYER_LOCATION_DELETE_=Delete 
+_EMPLOYER_LOCATION_DELETE_QUESTION_=Are you sure you want to delete this location ?
+
+//Matching seeker page
+_EMPLOYER_MATCHING_SEEKER_HEADER_=Matching active candidates
+_EMPLOYER_MATCHING_SEEKER_NAME_=Person name
+_EMPLOYER_MATCHING_SEEKER_EMAIL_=E-mail address
+_EMPLOYER_MATCHING_SEEKER_INTERESTED_=Interested
+_EMPLOYER_MATCHING_SEEKER_LOCATION_=Location
+_EMPLOYER_MATCHING_SEEKER_NO_=No
+_EMPLOYER_MATCHING_SEEKER_YES_=Yes
+_ADVANCED_EMPLOYER_MATCHING_SEEKER_OCCUPATION_=Occupation
+
+//Occupation page
+_EMPLOYER_OCCUPATION_HEADER_=Occupations
+_EMPLOYER_OCCUPATION_BUSINESS_TYPE_=Business type
+_EMPLOYER_OCCUPATION_SELECTION_=Selection:
+_EMPLOYER_OCCUPATION_SELECTED_=You have selected:
+
+//Occupation statistic page
+_EMPLOYER_OCCUPATION_STATISTICS_OCCUPATION_=Occupation
+_EMPLOYER_OCCUPATION_STATISTICS_BYWHOM_=By whom
+_EMPLOYER_OCCUPATION_STATISTICS_REQUEST_SENT_=Number of hire requests sent
+_EMPLOYER_OCCUPATION_STATISTICS_CANDIDATES_RECEIVED_=Number of candidates received
+_EMPLOYER_OCCUPATION_STATISTICS_PENDING_REQUEST_=Number of pending hire requests
+
+//Occupations page
+_EMPLOYER_OCCUPATIONS_OCCUPATION_=Occupations
+_EMPLOYER_OCCUPATIONS_OCCUPATION_NOT_FOUND_=Occupation not found
+
+//Pending hire request ajax page
+_EMPLOYER_PENDING_AJAX_DELETE_REQUEST_=Are you sure you want to delete this hire request ?
+_EMPLOYER_PENDING_AJAX_PENDING_REQUEST_=Hire Requests
+_EMPLOYER_PENDING_AJAX_VIEW_DETAILS_=View details of this job
+_EMPLOYER_PENDING_AJAX_JOBID_=JobId
+_EMPLOYER_PENDING_AJAX_CANDIDATES_=Candidates:
+_EMPLOYER_PENDING_AJAX_NEW_CANDIDATE_AVAILABLE_=New candidates available
+_EMPLOYER_PENDING_AJAX_NO_CANDIDATES_=No new candidates
+_EMPLOYER_PENDING_AJAX_DELETE_JOB_=Delete this job
+_EMPLOYER_PENDING_AJAX_NO_ACTIVE_REQUEST_=No active hire requests.
+_EMPLOYER_PENDING_AJAX_PREV_=Previous
+_EMPLOYER_PENDING_AJAX_NEXT_=Next
+_EMPLOYER_ADVANCED_PENDING_AJAX_NO_PENDING_HIRE_REQUEST_=No pending hire request.
+_EMPLOYER_BASIC_PENDING_AJAX_NO_PENDING_HIRE_REQUEST_=No pending hire request.
+
+//Phone page
+_EMPLOYER_PHONE_ADD_REMOVE_PHONE_=Add/Remove Phones
+_EMPLOYER_PHONE_VERIFY_NOW_=Verify now
+_EMPLOYER_PHONE_PHONE_NUM_=Phone Number
+_EMPLOYER_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+_EMPLOYER_PHONE_REFRESH_=Refresh
+_EMPLOYER_PHONE_NO_=No
+_EMPLOYER_PHONE_PHONE_=Phone
+_EMPLOYER_PHONE_STATUS_=Status
+_EMPLOYER_PHONE_SMS_=Receive SMS?
+_EMPLOYER_PHONE_ACTION_=Action
+_EMPLOYER_PHONE_NO_PHONE_=No phone found.
+_EMPLOYER_PHONE_VERIFIED_=Verified
+_EMPLOYER_PHONE_VERIFYNOW_=Verify now
+_EMPLOYER_PHONE_DELETE_PHONE_QUESTION_=Are you sure you want to delete this Phone number ?
+_EMPLOYER_PHONE_DELETE_=Delete
+
+//Recent activities page
+_EMPLOYER_RECENT_ACTIVITIES_=Recent activities
+_EMPLOYER_RECENT_ACTIVITIES_POSTED_BY_=posted by
+_EMPLOYER_RECENT_ACTIVITIES_VIEW_=View
+_EMPLOYER_RECENT_ACTIVITIES_PROFILE_=profile
+_EMPLOYER_RECENT_ACTIVITIES_NO_PHONE_=No phone
+
+//Recent activities ajax page
+_EMPLOYER_RECENT_AJAX_HEADER_=Recent activities
+_EMPLOYER_RECENT_AJAX_NO_ACTIVITIES_=No activity posted yet.
+_EMPLOYER_RECENT_AJAX_POSTED_BY_=posted by 
+_EMPLOYER_RECENT_AJAX_VIEW_=View
+_EMPLOYER_RECENT_AJAX_PROFILE_=profile
+_EMPLOYER_RECENT_AJAX_NO_PHONE_=No phone
+_EMPLOYER_RECENT_AJAX_READMORE_=Read more
+
+//Setting page
+_EMPLOYER_SETTING_CLOSE_ACCOUNT_=Close my account
+_EMPLOYER_SETTING_WHY_CLOSE_=Why would you like to close your account?
+_EMPLOYER_SETTING_DUPLICATE_=I have a duplicate account
+_EMPLOYER_SETTING_MANY_MAILS_=I am getting too many emails
+_EMPLOYER_SETTING_MEMBERSHIP_=I am not getting any value from my membership
+_EMPLOYER_SETTING_DIFFERENT_SERVICE_=I am using a different professional service
+_EMPLOYER_SETTING_OTHER_=Other
+_EMPLOYER_SETTING_CLOSE_QUESTION_=Are you sure you want to close your account ?
+
+//Statistics page
+_EMPLOYER_STATISTICS_HEADER_=Hire requests per account manager
+_EMPLOYER_STATISTICS_FNAME_=Firstname
+_EMPLOYER_STATISTICS_LNAME_=Lastname
+_EMPLOYER_STATISTICS_EMAIL_=Email
+_EMPLOYER_STATISTICS_REQUEST_SENT_=Number of hire requests sent
+_EMPLOYER_STATISTICS_CANDIDATES_RECEIVED_=Number of candidates received
+_EMPLOYER_STATISTICS_PENDING_REQUEST_=Number of pending hire requests
+_EMPLOYER_STATISTICS_HEADER_OCCUPATION_=Hire requests per occupation type
+_EMPLOYER_STATISTICS_OCCUPATION_=Occupation
+_EMPLOYER_STATISTICS_BYWHOM_=By whom
+_EMPLOYER_STATISTICS_SUMMARY_=Summary
+=Number of account managers
+_EMPLOYER_STATISTICS_TOTAL_REQUEST_SENT_=Total hire requests sent
+_EMPLOYER_STATISTICS_TOTAL_CANDIDATE_RECEIVED_=Total candidates received
+_EMPLOYER_STATISTICS_NUMBER_PENDING_=Number of pending hire requests
+_EMPLOYER_STATISTICS_SMS_RECEIVED_=Number of sms received
+_EMPLOYER_STATISTICS_SMS_SENT_=Number of sms sent
+
+//View more hire now page
+_EMPLOYER_VIEW_MORE_BYWHOM_=By whom
+_EMPLOYER_VIEW_MORE_PAY_RANGE_=Pay range
+_EMPLOYER_VIEW_MORE_JOBTYPE_=Job type
+_EMPLOYER_VIEW_MORE_WORK_SCHEDULE_=Work schedule
+_EMPLOYER_VIEW_MORE_WORKSHIFT_=Work shift
+_EMPLOYER_VIEW_MORE_LANGUAGE_=Languages
+_EMPLOYER_VIEW_MORE_AGE_=Age
+_EMPLOYER_VIEW_MORE_EXPERIENCE_=Experience
+
+//------------------------------------------------------------------- FEEDBACK FOLDER ------------------------------------------------------------------------------//
+
+//Index page
+_FEEDBACK_INDEX_FEEDBACK_=Feedback
+_FEEDBACK_INDEX_DUPLICATE_=I have a duplicate account
+_FEEDBACK_INDEX_MANY_MAILS_=I am getting too many emails
+_FEEDBACK_INDEX_MEMBERSHIP_=I am not getting any value from my membership
+_FEEDBACK_INDEX_DIFFERENT_SERVICE_=I am using a different professional service
+_FEEDBACK_INDEX_OTHER_=Other
+
+//------------------------------------------------------------------- APPLICATION TEMPLATES FOLDER ------------------------------------------------------------------------------//
+
+//Employer html page
+_APPLICATION_TMP_EMPLOYER_HEADER_=Change to our Term Of Service
+_APPLICATION_TMP_EMPLOYER_ATTENTION_=We would like to draw your attention that _SITENAME_.com has changed the terms of services agreement effective
+_APPLICATION_TMP_EMPLOYER_NEW_TOS_=Our new terms of service are available at
+_APPLICATION_TMP_EMPLOYER_READ_NEW_TOS_=Please read the new terms of service that are now binding to your account.
+_APPLICATION_TMP_EMPLOYER_ACCEPT_=If you have already read and fully agree with its contents, please press ACCEPT to continue.
+
+//Employer future html page
+_APPLICATION_TMP_EMPLOYER_FUTURE_HEADER_=Change to our Term Of Service
+_APPLICATION_TMP_EMPLOYER_FUTURE_ATTENTION_=We would like to draw your attention that _SITENAME_.com has changed the terms of services agreement effective
+_APPLICATION_TMP_EMPLOYER_FUTURE_NEW_TOS_=Our new terms of service are available at
+_APPLICATION_TMP_EMPLOYER_FUTURE_READ_NEW_TOS_=Please read the new terms of service that will be binding to your newly opened as well as already active accounts as of
+_APPLICATION_TMP_EMPLOYER_FUTURE_ACCEPT_=If you have already read and fully agree with its contents, please press ACCEPT to continue.
+_APPLICATION_TMP_EMPLOYER_FUTURE_NOT_AGREE_1_=If you do not agree with our new agreement (terms of service), you are kindly requested to close your account. Keeping your account open with _SITENAME_NO_CAPS_.com after
+_APPLICATION_TMP_EMPLOYER_FUTURE_NOT_AGREE_2_=is an indication that you were properly notified about the planned terms of service change, and that you have downloaded, read and fully agree with its contents.
+
+//Seeker html page
+_APPLICATION_TMP_SEEKER_HEADER_=Change to our Term Of Service
+_APPLICATION_TMP_SEEKER_ATTENTION_=We would like to draw your attention that _SITENAME_.com has changed the terms of services agreement effective
+_APPLICATION_TMP_SEEKER_TOS_=Our new terms of service are available at
+_APPLICATION_TMP_SEEKER_READ_NEW_TOS_=Please read the new terms of service that are now binding to your account.
+_APPLICATION_TMP_SEEKER_AGREE_=If you have already read and fully agree with its contents, please press ACCEPT to continue.
+
+//Seeker future html page
+_APPLICATION_TMP_SEEKER_FUTURE_HEADER_=Change to our Term Of Service
+_APPLICATION_TMP_SEEKER_ATTENTION_=We would like to draw your attention that _SITENAME_.com has changed the terms of services agreement effective
+_APPLICATION_TMP_SEEKER_TOS_=Our new terms of service are available at
+_APPLICATION_TMP_SEEKER_READ_NEW_TOS_=Please read the new terms of service that will be binding to your newly opened as well as already active accounts as of
+_APPLICATION_TMP_SEEKER_AGREE_=If you have already read and fully agree with its contents, please press ACCEPT to continue.
+_APPLICATION_TMP_SEEKER_NOT_AGREE_1_=If you do not agree with our new agreement (terms of service), you are kindly requested to close your account. Keeping your account open with _SITENAME_NO_CAPS_.com after
+_APPLICATION_TMP_SEEKER_NOT_AGREE_2_=is an indication that you were properly notified about the planned terms of service change, and that you have downloaded, read and fully agree with its contents.
+
+//------------------------------------------------------------------- EMAIL TEMPLATES FOLDER ------------------------------------------------------------------------------//
+
+//Account activation link page
+_EMPLOYER_TMP_ACCOUNT_ACTIVATION_HELLO_=Hello
+_EMPLOYER_TMP_ACCOUNT_ACTIVATION_CLICK_ACTIVATE_=Please activate your _SITENAME_ account by clicking this link
+_EMPLOYER_TMP_ACCOUNT_ACTIVATION_VERIFY_NOW_=Verify now
+_EMPLOYER_TMP_ACCOUNT_ACTIVATION_ACTIVATED_=Once you have activated the account, you can start using your _SITENAME_NO_CAPS_.com account.
+_EMPLOYER_TMP_ACCOUNT_ACTIVATION_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//Contact Us link page
+_EMPLOYER_TMP_CONTACT_US_COMMENT_=Comment
+_EMPLOYER_TMP_CONTACT_US_INFO_=Contact Us Information
+_EMPLOYER_TMP_CONTACT_US_FULLNAME_=Full Name
+_EMPLOYER_TMP_CONTACT_US_EMAIL_=Email
+_EMPLOYER_TMP_CONTACT_US_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+
+//Add account manager employer page
+_EMAIL_TMP_ADD_ACM_EMPLOYER_DEAR_=Dear
+_EMAIL_TMP_ADD_ACM_EMPLOYER_ADDED_=Your name is added as an Account Manager
+_EMAIL_TMP_ADD_ACM_EMPLOYER_ACTIVATE_LINK_=Please activate your _SITENAME_ account by clicking following link
+_EMAIL_TMP_ADD_ACM_EMPLOYER_START_USING_=Once you have activated the account, you can log in and start using your account
+_EMAIL_TMP_ADD_ACM_EMPLOYER_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        http://_SITENAME_NO_CAPS_.com </p>
+		
+//Bulk upload email page
+_EMAIL_TMP_BULK_UPLOAD_SUCCESS_=bulk upload completed successfully for
+_EMAIL_TMP_BULK_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//Employer confirmation link page
+_EMAIL_TMP_EMPLOYER_CONFIRMATION_THANKS_=Thank you for registering for a _SITENAME_ account.
+_EMAIL_TMP_EMPLOYER_CONFIRMATION_CLICK_LINK_=Please activate your _SITENAME_ account by clicking this link
+_EMAIL_TMP_EMPLOYER_CONFIRMATION_ACTIVATED_=Once you have activated your account, you can log in to start hiring!
+_EMAIL_TMP_EMPLOYER_CONFIRMATION_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        http://_SITENAME_NO_CAPS_.com </p>
+
+//Forgot password link page
+_EMAIL_TMP_FORGOT_PASSWORD_HELLO_=Hello
+_EMAIL_TMP_FORGOT_PASSWORD_VERIFICATION_CODE_=You requested to reset your password. <br /><br />To reset your password, you will need verification code
+_EMAIL_TMP_FORGOT_PASSWORD_RESET_=<br />To reset your password, please click
+_EMAIL_TMP_FORGOT_PASSWORD_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//Hirenow english page
+_EMAIL_TMP_HIRENOW_ENGLISH_DEAR_=Dear
+_EMAIL_TMP_HIRENOW_ENGLISH_NEWS_=Great news!
+_EMAIL_TMP_HIRENOW_ENGLISH_ADDRESS_=at address
+_EMAIL_TMP_HIRENOW_ENGLISH_HIRING_=is hiring a
+_EMAIL_TMP_HIRENOW_ENGLISH_POSTED_=posted on
+_EMAIL_TMP_HIRENOW_ENGLISH_IF_INTERESTED_=If <strong>interested</strong> please click
+_EMAIL_TMP_HIRENOW_ENGLISH_STOP_=If you would like to stop receiving notifications for jobs from
+_EMAIL_TMP_HIRENOW_ENGLISH_PLEASE_CLICK_=please click
+_EMAIL_TMP_HIRENOW_ENGLISH_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//Hirenow res emp page
+_EMAIL_TMP_HIRENOW_RES_DEAR_=Dear
+_EMAIL_TMP_HIRENOW_RES_INTERESTED_=is interested in occupation
+_EMAIL_TMP_HIRENOW_RES_CANDIDATES_=Candidate can be reached at
+
+//Hirenow res seeker page
+_EMAIL_TMP_HIRENOW_RES_SEEKER_DEAR_=Dear
+_EMAIL_TMP_HIRENOW_RES_SEEKER_THANKS_=Thanks for your interest in
+_EMAIL_TMP_HIRENOW_RES_SEEKER_FROM_=from
+_EMAIL_TMP_HIRENOW_RES_SEEKER_CONTACTED_=You may be contacted by the employer for this job.
+_EMAIL_TMP_HIRENOW_RES_SEEKER_GOODLUCK_=Good luck,
+//Register email seeker page
+_EMAIL_TMP_REGISTER_SEEKER_DEAR_=Dear
+_EMAIL_TMP_REGISTER_SEEKER_THANKS_=Thank you for registering your email address. Please click
+_EMAIL_TMP_REGISTER_SEEKER_VERIFY_=to verify your email account
+_EMAIL_TMP_REGISTER_SEEKER_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+
+//Seeker confirmation link page
+_EMAIL_TMP_SEEKER_CONFIRMATION_HELLO_=Hello
+_EMAIL_TMP_SEEKER_CONFIRMATION_THANKS_=Thank you for signing up for a _SITENAME_ account
+_EMAIL_TMP_SEEKER_CONFIRMATION_CLICK_LINK_=Please confirm your _SITENAME_ account by clicking following link
+_EMAIL_TMP_SEEKER_CONFIRMATION_ACTIVATED_=Once you have verified your account, you can start getting alerts for jobs that become available in areas of your choice.
+_EMAIL_TMP_SEEKER_CONFIRMATION_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        http://_SITENAME_NO_CAPS_.com </p>
+		
+//Signup employer detail admin msg page
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_JOINED_=joined _SITENAME_. User details are below
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_NAME_=Name
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_BUSINESS_=Business name
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_PHONE_=Phone
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_EMAIL_=Email
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_USING_=Using
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_TYPE_=Type
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_EMPLOYER_=Employer
+_EMAIL_TMP_SIGNUP_EMPLOYER_ADMIN_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//Signup seeker detail admin msg page
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_JOINED_=A user has joined. Details
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_NAME_=Name
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_PHONE_=Phone
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_EMAIL_=Email
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_USING_=Using
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_TYPE_=Type
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_SEEKER_=Seeker
+_EMAIL_TMP_SIGNUP_SEEKER_ADMIN_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+		
+//------------------------------------------------------------------- TOS TEMPLATES FOLDER ------------------------------------------------------------------------------//
+
+//Employer page
+_TOS_TMP_EMPLOYER_=
+	<ol>
+		<li>ACCEPTANCE OF TERMS</li>
+		<li>MODIFICATIONS TO THIS AGREEMENT</li>
+		<li>CONTENT</li>
+		<li>THIRD PARTY CONTENT, SITES, AND SERVICES</li>
+		<li>NOTIFICATION OF CLAIMS OF INFRINGEMENT</li>
+		<li>PRIVACY AND INFORMATION DISCLOSURE</li>
+	</ol>
+	
+//Seeker page
+_TOS_TMP_SEEKER_=
+	<ol>
+		<li>ACCEPTANCE OF TERMS</li>
+		<li>MODIFICATIONS TO THIS AGREEMENT</li>
+		<li>CONTENT</li>
+		<li>THIRD PARTY CONTENT, SITES, AND SERVICES</li>
+		<li>NOTIFICATION OF CLAIMS OF INFRINGEMENT</li>
+		<li>PRIVACY AND INFORMATION DISCLOSURE</li>
+	</ol>
+	
+//------------------------------------------------------------------- MOBILE USER FOLDER ------------------------------------------------------------------------------//
+
+//About page
+_MOBILE_USER_ABOUT_TITLE_=About _SITENAME_.com
+_MOBILE_USER_ABOUT_DESCRIPTION_=<p>_SITENAME_.com is a new way for employers to connect with seekers seeking hourly jobs in real time! </p>
+                    <p><strong>Employers</strong> do not need to visit a website to post jobs or connect with candidates. And, <strong>Seekers</strong> do not need a website to get found. You can use _SITENAME_NO_CAPS_ right from your phone - SMS, iPhone app, Android app, mobile web etc. And, of course, you can use the traditional website _SITENAME_NO_CAPS_.com. </p>
+                    <p>With _SITENAME_, employers and seekers find an instant match near them.</p>
+                    <p>Come, join the revolution! Find an instant match near you. </p>
+		
+//Account activation page
+_MOBILE_USER_ACCOUNT_ACTIVATION_TITLE_=Account Activation
+_MOBILE_USER_ACCOUNT_ACTIVATION_EMAIL_ACTIVATION_=Email activation
+_MOBILE_USER_ACCOUNT_ACTIVATION_EMAIL_=Email
+_MOBILE_USER_ACCOUNT_ACTIVATION_SPAM_=Following math problem is to prevent automated SPAM submissions. Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+_MOBILE_USER_ACCOUNT_ACTIVATION_PHONE_ACTIVATION_=Phone number activation
+_MOBILE_USER_ACCOUNT_ACTIVATION_PHONE_=Phone number
+
+//Agreement page
+_MOBILE_USER_AGREEMENT_CONTINUE_=CONTINUE
+
+//Contact us page
+_MOBILE_USER_CONTACT_TITLE_=Contact us
+_MOBILE_USER_CONTACT_MANDATORY_=Fields with * are mandatory
+_MOBILE_USER_CONTACT_NAME_=Your name
+_MOBILE_USER_CONTACT_EMAIL_=Your email address
+_MOBILE_USER_CONTACT_COMMENT_=Your comment or question
+_MOBILE_USER_CONTACT_SPAM_=Following math problem is to prevent automated SPAM submissions. Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//language page
+_MOBILE_USER_LANGUAGE_LANGUAGE_=Language
+_MOBILE_USER_LANGUAGE_SELECT_=Select language:
+
+//Feedback page
+_MOBILE_USER_FEEDBACK_HEADER_=Feedback
+_MOBILE_USER_FEEDBACK_DUPLICATE_ACCOUNT_=I have a duplicate account
+_MOBILE_USER_FEEDBACK_MANY_EMAILS_=I am getting too many emails
+_MOBILE_USER_FEEDBACK_MEMBERSHIP_=I am not getting any value from my membership
+_MOBILE_USER_FEEDBACK_DIFFERENT_SERVICE_=I am using a different professional service
+_MOBILE_USER_FEEDBACK_CONTINUE_=Continue
+_MOBILE_USER_FEEDBACK_OTHER_=Other
+
+//Footer page
+_MOBILE_USER_FOOTER_SIGNUP_=Signup as
+_MOBILE_USER_FOOTER_EMPLOYER_=Employer
+_MOBILE_USER_FOOTER_SEEKER_=Seeker
+_MOBILE_USER_FOOTER_HOME_=Home
+_MOBILE_USER_FOOTER_FULLSITE_=Full Site
+_MOBILE_USER_FOOTER_TOP_=Top of Page
+_MOBILE_USER_FOOTER_TOC_=T &amp; C
+_MOBILE_USER_FOOTER_PRIVACY_=Privacy
+_MOBILE_USER_FOOTER_ABOUT_=About
+_MOBILE_USER_FOOTER_CONTACT_=Contact Us
+_MOBILE_USER_FOOTER_=© 2012
+
+//Forgot password page
+_MOBILE_USER_FORGOT_PASSWORD_=Forgot Password
+_MOBILE_USER_FORGOT_PASSWORD_ENTER_=Enter Email or Phone number
+_MOBILE_USER_FORGOT_PASSWORD_EMAIL_PHONE_=Email or Phone number
+
+//Help page
+_MOBILE_USER_HELP_TITLE_=Looks like you need some help?
+_MOBILE_USER_HELP_SOLUTION_=Let us help you find a solution
+_MOBILE_USER_HELP_FORGOT_=I forgot my password
+_MOBILE_USER_HELP_INACTIVE_=My account is inactive
+_MOBILE_USER_HELP_CONTACT_=Contact us and we'll help you out
+
+//Index page
+_MOBILE_USER_INDEX_DETECTED_=We have detected you are using a mobile device
+_MOBILE_USER_COMINGSOON_=Our mobile apps are coming out soon...<br />In the meantime please
+_MOBILE_USER_INDEX_CONTINUE_=continue to our
+_MOBILE_USER_INDEX_MOBILESITE_=mobile site
+
+//Login page
+_MOBILE_USER_LOGIN_EMAIL_PHONE_=Email or Phone
+_MOBILE_USER_LOGIN_PASSWORD_=Password
+_MOBILE_USER_LOGIN_REMEMBER_=Remember me
+_MOBILE_USER_LOGIN_ACCESS_=I can't access my account
+
+//Privacy page
+_MOBILE_USER_PRIVACY_HEADER_=Privacy
+_MOBILE_USER_PRIVACY_DESCRIPTION_=<ol>
+					<li><b>Your privacy is our top concern</b> <br />
+						We work hard to earn and keep your trust, so we added here to the following principles to protect your privacy:
+						<ul>
+							<li>We do not rent or sell your personally identifiable information to third parties for marketing purposes.</li>
+							<li>We do not share your contact information with another User without your consent.</li>
+							<li>Any personally identifiable information that you provide will be secured with industry standard protocols and technology.</li>
+							<li>We don't send you unsolicited communications for marketing purposes.</li>
+							<li>We offer identity anonymization &amp; relay, to reduce 3rd party harvesting &amp; spam.</li>
+							<li>Account information is password-protected. Keep your password safe.</li>
+							<li>_SITENAME_CAPS_.COM, or people who post on _SITENAME_CAPS_.COM, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited.</li>
+						</ul>
+
+						We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use _SITENAME_CAPS_.COM after notice of changes have been sent to you or published on our website, you are consenting to the changes. <br />
+						Due to the communications standards on the Internet, when you visit the _SITENAME_CAPS_.COM web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave _SITENAME_CAPS_.COM. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the _SITENAME_CAPS_.COM service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law. <br />
+						Certain information you provide to _SITENAME_CAPS_.COM may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to _SITENAME_CAPS_.COM for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and _SITENAME_CAPS_.COM's User Agreement. The supplying of all such information by you to _SITENAME_CAPS_.COM, including all information deemed 'sensitive' by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive. <br />
+						You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein. </li>
+					<li> <b>Data we collect</b>
+						<ul>
+
+							<li>We collect your email address, phone number, social network accounts, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc.</li>
+							<li>We collect your email, phone number, social network accounts information for account authentication purposes, SMS, phone calls etc. for sending you communication as you request.</li>
+							<li>Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the _SITENAME_CAPS_.COM site, and to otherwise provide our service to you.</li>
+						</ul>
+					</li>
+					<li> <b>Data we store</b>
+						<ul>
+							<li>All postings are stored in our database, even after "deletion," and may be archived elsewhere.</li>
+							<li>Our web logs and other records are stored indefinitely.</li>
+							<li>Registered job posters can access and update their account information through the account homepage.</li>
+							<li>Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.</li>
+						</ul>
+
+					</li>
+					<li> <b>Archiving and display of _SITENAME_CAPS_.COM postings by search engines and other sites</b> <br />
+						Search engines and other sites not affiliated with _SITENAME_CAPS_.COM - including google.com, and yahoo.com - archive or otherwise make available _SITENAME_CAPS_.COM postings. </li>
+					<li> <b>Circumstances in which _SITENAME_CAPS_.COM may release information </b> <br />
+						<ul>
+
+							<li>_SITENAME_CAPS_.COM may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.</li>
+							<li>_SITENAME_CAPS_.COM may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of _SITENAME_CAPS_.COM, its users or the general public.</li>
+						</ul>
+					</li>
+					<li> <b>International Users</b> <br />
+						By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of _SITENAME_CAPS_.COM we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. </li>
+					
+                </ol>	
+ 					
+_PRIVACY_EMAIL_=privacy@_SITENAME_CAPS_.COM
+_MOBILE_USER_PRIVACY_EMAIL_=privacy@_SITENAME_CAPS_.COM					
+
+//Signup employer page
+_MOBILE_USER_SIGNUP_EMPLOYER_=Employer Signup
+_MOBILE_USER_SIGNUP_EMPLOYER_MANDATORY_=Fields with * are mandatory
+_MOBILE_USER_SIGNUP_EMPLOYER_BUSINESS_=Business name
+_MOBILE_USER_SIGNUP_EMPLOYER_ADDRESS_=Business address
+_MOBILE_USER_SIGNUP_EMPLOYER_CITY_=City
+_MOBILE_USER_SIGNUP_EMPLOYER_STATE_=State
+_MOBILE_USER_SIGNUP_EMPLOYER_ZIP_=Zip
+_MOBILE_USER_SIGNUP_EMPLOYER_CONTACT_NAME_=Contact person name
+_MOBILE_USER_SIGNUP_EMPLOYER_EMAIL_PHONE_=Please specify email or phone or both
+_MOBILE_USER_SIGNUP_EMPLOYER_EMAIL_=Email
+_MOBILE_USER_SIGNUP_EMPLOYER_PHONE_=Phone number
+_MOBILE_USER_SIGNUP_EMPLOYER_VERIFY_NOW_=Verify now
+_MOBILE_USER_SIGNUP_EMPLOYER_SMS_=Can receive SMS on this?
+_MOBILE_USER_SIGNUP_EMPLOYER_PASSWORD_=Password
+_MOBILE_USER_SIGNUP_EMPLOYER_CONFIRM_PASSWORD_=Confirm password
+_MOBILE_USER_SIGNUP_EMPLOYER_OCCUPATIONS_=Occupations
+_MOBILE_USER_SIGNUP_EMPLOYER_CONTACT_METHOD_=Preferred method of contact
+_MOBILE_USER_SIGNUP_EMPLOYER_ALERT_=You can receive alerts via email or SMS or both
+_MOBILE_USER_SIGNUP_EMPLOYER_TOS_=Term of Service
+_MOBILE_USER_SIGNUP_EMPLOYER_CHECKBOX_=By checking the checkbox "Agreement accepted" below, you are agreeing to comply with the following terms of use for employers
+_MOBILE_USER_SIGNUP_EMPLOYER_ACCEPTED_=Agreement accepted
+_MOBILE_USER_SIGNUP_EMPLOYER_SPAM_=Following math problem is to prevent automated SPAM submissions. Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//Signup seeker page
+_MOBILE_USER_SIGNUP_SEEKER_TITLE_=Seeker Signup
+_MOBILE_USER_SIGNUP_SEEKER_MANDATORY_=Fields with * are mandatory
+_MOBILE_USER_SIGNUP_SEEKER_FULLNAME_=Full name (firstname lastname)
+_MOBILE_USER_SIGNUP_SEEKER_EMAIL_PHONE_=Please specify email or phone or both
+_MOBILE_USER_SIGNUP_SEEKER_EMAIL_=Email
+_MOBILE_USER_SIGNUP_SEEKER_PHONE_=Phone number
+_MOBILE_USER_SIGNUP_SEEKER_SMS_=Can receive SMS on this?
+_MOBILE_USER_SIGNUP_SEEKER_PASSWORD_=Password
+_MOBILE_USER_SIGNUP_SEEKER_CONFIRM_PASSWORD_=Confirm password
+_MOBILE_USER_SIGNUP_SEEKER_TELL_US_=Please tell us what kind of job you would like
+_MOBILE_USER_SIGNUP_SEEKER_OCCUPATION_=Occupations
+_MOBILE_USER_SIGNUP_SEEKER_EXPERIENCE_=Experience
+_MOBILE_USER_SIGNUP_SEEKER_AGE_=Your age
+_MOBILE_USER_SIGNUP_SEEKER_MINIMUM_AGE_=(for restricted jobs that require minimum age 16, 18 or 21)
+_MOBILE_USER_SIGNUP_SEEKER_PAYRANGE_=Pay range
+_MOBILE_USER_SIGNUP_SEEKER_JOBTYPE_=Job type
+_MOBILE_USER_SIGNUP_SEEKER_WORK_SCHEDULE_=Work schedule
+_MOBILE_USER_SIGNUP_SEEKER_WORKSHIFT_=Work shift
+_MOBILE_USER_SIGNUP_SEEKER_LANGUAGE_=Languages you know
+_MOBILE_USER_SIGNUP_SEEKER_WORK_LOCATION_=Work/Location preferences
+_MOBILE_USER_SIGNUP_SEEKER_ADDRESS_=Full street address, city name or zipcode
+_MOBILE_USER_SIGNUP_SEEKER_RADIUS_=Radius
+_MOBILE_USER_SIGNUP_SEEKER_ALERT_=You will receive alerts whenever jobs matching your profile become available in the following areas
+_MOBILE_USER_SIGNUP_SEEKER_CONTACT_METHOD_=Preferred method of contact
+_MOBILE_USER_SIGNUP_SEEKER_ALERT_BOTH_=you can receive alerts via email or SMS or both
+_MOBILE_USER_SIGNUP_SEEKER_TOS_=Term of service
+_MOBILE_USER_SIGNUP_SEEKER_CHECKBOX_=By checking the checkbox "Agreement Accepted" below, you agree to comply with the following terms of use for seekers
+_MOBILE_USER_SIGNUP_SEEKER_AGREEMENT_ACCEPTED_=Agreement accepted
+_MOBILE_USER_SIGNUP_SEEKER_SPAM_=Following math problem is to prevent automated SPAM submissions. Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//Terms employer page
+_MOBILE_USER_TERMS_TITLE_=Terms and condition
+_MOBILE_USER_TERMS_EMPLOYER_=Employers Terms and conditions
+_MOBILE_USER_TERMS_SEEKER_=Seeker Terms and conditions
+
+//Test page
+_MOBILE_USER_TEST_TITLE_=Forgot password verification
+_MOBILE_USER_TEST_TOKEN_=Token
+_MOBILE_USER_TEST_NEW_PASSWORD_=New Password
+_MOBILE_USER_TEST_CONFIRM_PASSWORD_=Confirm Password 
+
+//------------------------------------------------------------------- MOBILE SEEKER FOLDER ------------------------------------------------------------------------------//
+
+//Add location page
+_MOBILE_SEEKER_ADD_LOCATION_TITLE_=Work/Location Preferences (i.e. interested in job in following areas)
+_MOBILE_SEEKER_ADD_LOCATION_ADDRESS_=Full street address, city name or zipcode 
+
+//Add phone page
+_MOBILE_SEEKER_ADD_PHONE_TITLE_=Add/Remove Phones
+_MOBILE_SEEKER_ADD_PHONE_PHONE_=Phone Number 
+_MOBILE_SEEKER_ADD_PHONE_SMS_=Can receive SMS on this?
+
+//Change passsword page
+_MOBILE_SEEKER_CHANGE_PASSWORD_TITLE_=Change My Password
+_MOBILE_SEEKER_CHANGE_PASSWORD_OLD_=Old password
+_MOBILE_SEEKER_CHANGE_PASSWORD_NEW_=New password
+_MOBILE_SEEKER_CHANGE_PASSWORD_CONFIRM_=Confirm password
+
+//Delete confirm page
+_MOBILE_SEEKER_DELETE_CONFIRM_=Are you sure want to delete this
+
+//Edit profile page
+_MOBILE_SEEKER_EDIT_PROFILE_TITLE_=Profile
+_MOBILE_SEEKER_EDIT_PROFILE_DELETE_EMAIL_=Are you sure you want to delete email from account?
+_MOBILE_SEEKER_EDIT_PROFILE_FNAME_=First Name 
+_MOBILE_SEEKER_EDIT_PROFILE_LNAME_=Last Name 
+_MOBILE_SEEKER_EDIT_PROFILE_EMAIL_=Email
+_MOBILE_SEEKER_EDIT_PROFILE_AGE_=Age
+_MOBILE_SEEKER_EDIT_PROFILE_OCCUPATION_=Occupation preferences 
+_MOBILE_SEEKER_EDIT_PROFILE_PAYRANGE_=Pay range 
+_MOBILE_SEEKER_EDIT_PROFILE_CONTACT_METHOD_=Preferred method of contact 
+_MOBILE_SEEKER_EDIT_PROFILE_WORKSHIFT_=Work shift 
+_MOBILE_SEEKER_EDIT_PROFILE_WORK_SCHEDULE_=Work schedule  
+_MOBILE_SEEKER_EDIT_PROFILE_LANGUAGE_=Languages
+_MOBILE_SEEKER_EDIT_PROFILE_JOBTYPE_=Job type 
+_MOBILE_SEEKER_EDIT_PROFILE_EXPERIENCE_= Experience in this occupation
+
+//Facebook page
+_MOBILE_SEEKER_FACEBOOK_=Add Facebook Link
+_MOBILE_SEEKER_FACEBOOK_EG_=Please specify your Facebook URL e.g. http://www.facebook.com/...
+
+//Footer page
+_MOBILE_SEEKER_FOOTER_HOME_=Home
+_MOBILE_SEEKER_FOOTER_RECENT_HIRE_=Hire requests
+_MOBILE_SEEKER_FOOTER_RECENT_ACTIVITIES_=Recent activities
+_MOBILE_SEEKER_FOOTER_CHANGE_PASSWORD_=Change password
+_MOBILE_SEEKER_FOOTER_EDIT_PROFILE_=Edit profile
+_MOBILE_SEEKER_FOOTER_MY_LOCATION_=My work/location preferences
+_MOBILE_SEEKER_FOOTER_MY_PHONE_=My phone numbers
+_MOBILE_SEEKER_FOOTER_LINKEDIN_=My linkedin link
+_MOBILE_SEEKER_FOOTER_TWITTER_=My twitter link
+_MOBILE_SEEKER_FOOTER_FACEBOOK_=My facebook link
+_MOBILE_SEEKER_FOOTER_SETTING_=Settings
+_MOBILE_SEEKER_FOOTER_FULLSITE_=Full site
+_MOBILE_SEEKER_FOOTER_TOP_=Top of page
+_MOBILE_SEEKER_FOOTER_TOC_=T &amp; C
+_MOBILE_SEEKER_FOOTER_PRIVACY_=Privacy
+_MOBILE_SEEKER_FOOTER_ABOUT_=About
+_MOBILE_SEEKER_FOOTER_CONTACT_=Contact us
+_MOBILE_SEEKER_FOOTER_ACCOUNT_SETTING_=Account settings
+
+//Header page
+_MOBILE_SEEKER_HEADER_WELCOME_=Welcome
+
+//Index page
+_MOBILE_SEEKER_INDEX_TITLE_=Hire requests
+_MOBILE_SEEKER_INDEX_ADDRESS_=Address
+_MOBILE_SEEKER_INDEX_APPLIED_=Applied
+_MOBILE_SEEKER_INDEX_STOPPED_=Stopped jobs from 
+_MOBILE_SEEKER_INDEX_VIEW_=View
+_MOBILE_SEEKER_INDEX_DELETE_=Delete
+_MOBILE_SEEKER_INDEX_APPLY_=Apply
+_MOBILE_SEEKER_INDEX_NO_REQUEST_=No active hire requests.
+
+//Lindedin link
+_MOBILE_SEEKER_LINKEDIN_TITLE_=Add Linkedin Link
+_MOBILE_SEEKER_LINKEDIN_LINK_EG_=Please specify your Linkedin URL e.g. http://www.linkedin.com/... 
+
+//Location list page
+_MOBILE_SEEKER_LOCATION_LIST_TITLE_=Work/Location preferences (i.e. interested in job in following areas)
+_MOBILE_SEEKER_LOCATION_LIST_CLICK_=Click here for 
+_MOBILE_SEEKER_LOCATION_LIST_ADD_LOCATION_=Add locations
+_MOBILE_SEEKER_LOCATION_LIST_NO_CONFIGURED_=No work/location preferences configured
+_MOBILE_SEEKER_LOCATION_LIST_LOCATION_=Location
+_MOBILE_SEEKER_LOCATION_LIST_RADIUS_=Radius
+_MOBILE_SEEKER_LOCATION_LIST_EDIT_=Edit
+_MOBILE_SEEKER_LOCATION_LIST_DELETE_=Delete
+
+//Phone list page
+_MOBILE_SEEKER_PHONE_LIST_TITLE_=Add/Remove Phones
+_MOBILE_SEEKER_PHONE_LIST_CLICK_=Click here for 
+_MOBILE_SEEKER_PHONE_LIST_ADD_PHONE_=Add Phone
+_MOBILE_SEEKER_PHONE_LIST_PHONE_=Phone
+_MOBILE_SEEKER_PHONE_LIST_STATUS_=Status
+_MOBILE_SEEKER_PHONE_LIST_SMS_=Receive SMS?
+_MOBILE_SEEKER_PHONE_LIST_DELETE_=Delete
+
+//Recent activity page
+_MOBILE_SEEKER_RECENT_ACTIVITY_TITLE_=Recent activities
+_MOBILE_SEEKER_RECENT_ACTIVITY_NO_ACTIVITY_=No recent activity
+
+//Recent hire request page
+_MOBILE_SEEKER_RECENT_HIRE_TITLE_=Hire requests
+_MOBILE_SEEKER_RECENT_HIRE_APPLIED_=Applied
+_MOBILE_SEEKER_RECENT_HIRE_APPLY_=Apply
+_MOBILE_SEEKER_RECENT_HIRE_ADDRESS_=Address
+_MOBILE_SEEKER_RECENT_HIRE_STOPPED_=Stopped jobs from 
+_MOBILE_SEEKER_RECENT_HIRE_VIEW_=View
+_MOBILE_SEEKER_RECENT_HIRE_DELETE_=Delete
+_MOBILE_SEEKER_RECENT_HIRE_NO_ACTIVE_=No active hire requests
+
+//Twitter page
+_MOBILE_SEEKER_TWITTER_TITLE_=Add twitter link
+_MOBILE_SEEKER_TWITTER_LINK_EG_=Please specify your twitter URL http://twitter.com/...
+
+//View more requests page
+_MOBILE_SEEKER_VIEW_MORE_REQUEST_EMPLOYER_=Employer
+
+//------------------------------------------------------------------- MOBILE EMPLOYER FOLDER ------------------------------------------------------------------------------//
+
+//Account manager page
+_MOBILE_EMPLOYER_ACM_HEADER_=Account manager
+_MOBILE_EMPLOYER_ACM_ADD_ACM_=Add account manager
+_MOBILE_EMPLOYER_ACM_USER_NAME_=User name
+_MOBILE_EMPLOYER_ACM_EMAIL_=E-mail
+_MOBILE_EMPLOYER_ACM_PHONE_=Phone number
+_MOBILE_EMPLOYER_ACM_EMAIL_=Email
+_MOBILE_EMPLOYER_ACM_PASSWORD_=Password
+_MOBILE_EMPLOYER_ACM_DELETE_=Delete
+
+//Account manager statistics page
+_MOBILE_EMPLOYER_ACM_STATISTICS_TITLE_=Account managers statistics summary
+_MOBILE_EMPLOYER_ACM_STATISTICS_FIRST_NAME_=Firstname
+_MOBILE_EMPLOYER_ACM_STATISTICS_LAST_NAME_=Lastname
+_MOBILE_EMPLOYER_ACM_STATISTICS_EMAIL_=E-mail
+_MOBILE_EMPLOYER_ACM_STATISTICS_REQUEST_SENT_=Number of hire requests sent
+_MOBILE_EMPLOYER_ACM_STATISTICS_CANDIDATE_=Number of candidates received
+_MOBILE_EMPLOYER_ACM_STATISTICS_PENDING_=Number of pending hire requests
+_MOBILE_EMPLOYER_ACM_STATISTICS_STATISTICS_=Statistics
+_MOBILE_EMPLOYER_ACM_STATISTICS_VIEW_ACM_=View account manager statistics
+_MOBILE_EMPLOYER_ACM_STATISTICS_VIEW_OCCUPATION_=View occupation statistics
+
+//Add account manager page
+_MOBILE_EMPLOYER_ADD_ACM_HEADER_=Add account manager
+_MOBILE_EMPLOYER_ADD_ACM_NAME_=Account manager name
+_MOBILE_EMPLOYER_ADD_ACM_EMAIL_=E-mail
+_MOBILE_EMPLOYER_ADD_ACM_PHONE_=Phone number
+_MOBILE_EMPLOYER_ADD_ACM_TITLE_=Title
+_MOBILE_EMPLOYER_ADD_ACM_EMAIL_=Email id
+_MOBILE_EMPLOYER_ACM_FIRST_NAME_=First name
+_MOBILE_EMPLOYER_ADD_ACM_LAST_NAME_=Last name
+_MOBILE_EMPLOYER_ADD_ACM_PASSWORD_=Password
+_MOBILE_EMPLOYER_ADD_ACM_CONFIRM_PASSWORD_=Confirm password
+_MOBILE_EMPLOYER_ADD_ACM_DELETE_=Delete
+
+//Add location page
+_MOBILE_EMPLOYER_ADD_LOCATION_HEADER_=Add business locations
+_MOBILE_EMPLOYER_ADD_LOCATION_NAME_=Name
+_MOBILE_EMPLOYER_ADD_LOCATION_ADDRESS_=Address
+_MOBILE_EMPLOYER_ADD_LOCATION_ADDRESS2_=Address2
+_MOBILE_EMPLOYER_ADD_LOCATION_CITY_=City
+_MOBILE_EMPLOYER_ADD_LOCATION_STATE_=State
+_MOBILE_EMPLOYER_ADD_LOCATION_ZIPCODE_=Zipcode
+
+//Add phone page
+_MOBILE_EMPLOYER_PHONE_ADD_REMOVE_PHONE_=Add/Remove phones
+_MOBILE_EMPLOYER_PHONE_PHONE_NUM_=Phone number
+_MOBILE_EMPLOYER_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+
+//Billing page
+_MOBILE_EMPLOYER_BILLING_SUMMARY_=Billing summary
+_MOBILE_EMPLOYER_BILLING_CYCLE_DATE_=Billing cycle date
+_MOBILE_EMPLOYER_BILLING_ACCOUNT_CREATED_=Account created on
+_MOBILE_EMPLOYER_BILLING_FNAME_=Firstname
+_MOBILE_EMPLOYER_BILLING_LNAME_=Lastname
+_MOBILE_EMPLOYER_BILLING_EMAIL_=Email
+_MOBILE_EMPLOYER_BILLING_ACTIVATED_ON_=Activated on
+_MOBILE_EMPLOYER_BILLING_REMOVED_ON_=Removed on
+
+//Change password page
+_MOBILE_EMPLOYER_CHANGE_CHANGE_MY_PASSWORD_=Change my password
+_MOBILE_EMPLOYER_CHANGE_OLD_PASSWORD_=Old password
+_MOBILE_EMPLOYER_CHANGE_NEW_PASSWORD_=New password
+_MOBILE_EMPLOYER_CHANGE_CONFIRM_PASSWORD_=Confirm password
+
+//Delete confirm page
+_MOBILE_EMPLOYER_DELETE_CONFIRM_=Are you sure want to delete this
+
+//Edit profile page
+_MOBILE_EMPLOYER_EDIT_PROFILE_HEADER_=Profile
+_MOBILE_EMPLOYER_EDIT_PROFILE_BUSINESS_NAME_=Business name
+_MOBILE_EMPLOYER_EDIT_PROFILE_ACM_=Account manager name
+_MOBILE_EMPLOYER_EDIT_PROFILE_EMAIL_=Email
+_MOBILE_EMPLOYER_EDIT_PROFILE_TITLE_=Title
+_MOBILE_EMPLOYER_EDIT_PROFILE_BUSINESS_TYPE_=Business type
+_MOBILE_EMPLOYER_EDIT_PROFILE_CONTACT_METHOD_=Preferred method of contact  
+_MOBILE_EMPLOYER_EDIT_PROFILE_CONTACT_DELETE_EMAIL_=Are you sure you want to delete email from account?
+
+//Facebook page
+_MOBILE_EMPLOYER_FACEBOOK_=Add facebook link
+_MOBILE_EMPLOYER_FACEBOOK_EG_=Please specify your facebook URL e.g. http://www.facebook.com/...
+
+//Linkedin page
+_MOBILE_EMPLOYER_LINKEDIN_TITLE_=Add linkedin link
+_MOBILE_EMPLOYER_LINKEDIN_LINK_EG_=Please specify your linkedin URL e.g. http://www.linkedin.com/... 
+
+//Twitter page
+_MOBILE_EMPLOYER_TWITTER_TITLE_=Add twitter tink
+_MOBILE_EMPLOYER_TWITTER_LINK_EG_=Please specify your twitter URL http://twitter.com/...
+
+//Footer page
+_MOBILE_EMPLOYER_FOOTER_HOME_=Home
+_MOBILE_EMPLOYER_FOOTER_PENDING_HIRE_=Hire requests
+_MOBILE_EMPLOYER_FOOTER_RECENT_ACTIVITIES_=Recent activities
+_MOBILE_EMPLOYER_FOOTER_ACM_=Account managers
+_MOBILE_EMPLOYER_FOOTER_BILLING_=Billing
+_MOBILE_EMPLOYER_FOOTER_STATISTICS_=Statistics
+_MOBILE_EMPLOYER_FOOTER_CHANGE_PASSWORD_=Change password
+_MOBILE_EMPLOYER_FOOTER_EDIT_PROFILE_=Edit profile
+_MOBILE_EMPLOYER_FOOTER_MY_OCCUPATION_=Occupations
+_MOBILE_EMPLOYER_FOOTER_MY_LOCATION_=Locations
+_MOBILE_EMPLOYER_FOOTER_MY_PHONE_=My phone numbers
+_MOBILE_EMPLOYER_FOOTER_LINKEDIN_=Linkedin link
+_MOBILE_EMPLOYER_FOOTER_TWITTER_=Twitter link
+_MOBILE_EMPLOYER_FOOTER_FACEBOOK_=Facebook link
+_MOBILE_EMPLOYER_FOOTER_SETTING_=Settings
+_MOBILE_EMPLOYER_FOOTER_FULLSITE_=Full site
+_MOBILE_EMPLOYER_FOOTER_TOP_=Top of page
+_MOBILE_EMPLOYER_FOOTER_TOC_=T &amp; C
+_MOBILE_EMPLOYER_FOOTER_PRIVACY_=Privacy
+_MOBILE_EMPLOYER_FOOTER_ABOUT_=About
+_MOBILE_EMPLOYER_FOOTER_CONTACT_=Contact us
+
+//Header page
+_MOBILE_EMPLOYER_HEADER_WELCOME_=Welcome
+
+//Hirenow page
+_MOBILE_EMPLOYER_HIRENOW_CAPTION_=Hire Request for
+_MOBILE_EMPLOYER_HIRENOW_PAYRANGE_=Pay Range
+_MOBILE_EMPLOYER_HIRENOW_BUSINESS_LOCATIONS_=Business Locations
+_MOBILE_EMPLOYER_HIRENOW_OCCUPATION_EXPERIENCE_=Experience in this occupation
+_MOBILE_EMPLOYER_HIRENOW_WORKSHIFT_=Work shift
+_MOBILE_EMPLOYER_HIRENOW_WORKSCHEDULE_=Work schedule
+_MOBILE_EMPLOYER_HIRENOW_LANGUAGES_=Languages
+_MOBILE_EMPLOYER_HIRENOW_JOBTYPE_=Job type
+_MOBILE_EMPLOYER_HIRENOW_AGE_=Age
+
+//Location list page
+_MOBILE_EMPLOYER_LOCATION_LIST_TITLE_=Business Locations
+_MOBILE_EMPLOYER_LOCATION_LIST_CLICK_=Click here for 
+_MOBILE_EMPLOYER_LOCATION_LIST_ADD_=Add locations
+_MOBILE_EMPLOYER_LOCATION_LIST_NAME_=Name
+_MOBILE_EMPLOYER_LOCATION_LIST_LOCATION_=Location
+_MOBILE_EMPLOYER_LOCATION_LIST_DEFAULT_=Default
+_MOBILE_EMPLOYER_LOCATION_LIST_EDIT_=Edit
+_MOBILE_EMPLOYER_LOCATION_LIST_DELETE_=Delete
+
+//Matching seeker page
+_MOBILE_EMPLOYER_MATCHING_SEEKER_HEADER_=Matching active candidates
+_MOBILE_EMPLOYER_MATCHING_SEEKER_NAME_=Person name
+_MOBILE_EMPLOYER_MATCHING_SEEKER_EMAIL_=E-mail address
+_MOBILE_EMPLOYER_MATCHING_SEEKER_INTERESTED_=Interested
+_MOBILE_EMPLOYER_MATCHING_SEEKER_LOCATION_=Location
+_MOBILE_EMPLOYER_MATCHING_SEEKER_NO_=No
+_MOBILE_EMPLOYER_MATCHING_SEEKER_YES_=Yes
+_BASIC_EMPLOYER_MATCHING_SEEKER_OCCUPATION_=Occupation
+
+//Occupation statistics page
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_TITLE_=Occupations statistics summary
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_OCCUPATION_=Occupation
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_BYWHOM_=By whom
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_REQUEST_SENT_=Number of hire requests sent
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_CANDIDATES_RECEIVED_=Number of candidates received
+_MOBILE_EMPLOYER_OCCUPATION_STATISTICS_PENDING_REQUEST_=Number of pending hire requests
+
+//Pending hire request page
+_MOBILE_EMPLOYER_PENDING_HIRE_TITLE_=Hire Requests
+_MOBILE_EMPLOYER_PENDING_HIRE_CANDIDATES_=Candidates
+_MOBILE_EMPLOYER_PENDING_HIRE_ADDRESS_=Address
+_MOBILE_EMPLOYER_PENDING_HIRE_VIEW_=View
+_MOBILE_EMPLOYER_PENDING_HIRE_DELETE_=Delete
+_MOBILE_EMPLOYER_PENDING_HIRE_VIEW_CANDIDATES_=View candidates
+
+//Phone list page
+_MOBILE_EMPLOYER_PHONE_LIST_VERIFIED_=Verified
+_MOBILE_EMPLOYER_PHONE_LIST_CLICK_=Click here for 
+_MOBILE_EMPLOYER_PHONE_LIST_ADD_PHONE_=Add Phone
+_MOBILE_EMPLOYER_PHONE_LIST_PHONE_=Phone
+_MOBILE_EMPLOYER_PHONE_LIST_STATUS_=Status
+_MOBILE_EMPLOYER_PHONE_LIST_SMS_=Receive SMS?
+_MOBILE_EMPLOYER_PHONE_LIST_DELETE_=Delete
+_MOBILE_EMPLOYER_PHONE_LIST_VERIFY_=Verify now
+
+//Recent activities page
+_MOBILE_EMPLOYER_RECENT_ACTIVITY_POSTED_=Posted by
+
+//Statistics page
+_EMPLOYER_STATISTICS_HEADER_=Hire requests per account manager
+_EMPLOYER_STATISTICS_SUMMARY_=Statistics Summary
+_EMPLOYER_STATISTICS_ACM_NUMBER_=Number of account managers
+_EMPLOYER_STATISTICS_TOTAL_REQUEST_SENT_=Total hire requests sent
+_EMPLOYER_STATISTICS_TOTAL_CANDIDATE_RECEIVED_=Total candidates received
+_EMPLOYER_STATISTICS_NUMBER_PENDING_=Number of pending hire requests
+_EMPLOYER_STATISTICS_SMS_RECEIVED_=Number of sms received
+_EMPLOYER_STATISTICS_SMS_SENT_=Number of sms sent
+
+
+//------------------------------------------------------------------- MOBILE FEEDBACK FOLDER ------------------------------------------------------------------------------//
+
+//Index page
+_MOBILE_FEEDBACK_INDEX_FEEDBACK_=Feedback
+_MOBILE_FEEDBACK_INDEX_DUPLICATE_=I have a duplicate account
+_MOBILE_FEEDBACK_INDEX_MANY_MAILS_=I am getting too many emails
+_MOBILE_FEEDBACK_INDEX_MEMBERSHIP_=I am not getting any value from my membership
+_MOBILE_FEEDBACK_INDEX_DIFFERENT_SERVICE_=I am using a different professional service
+_MOBILE_FEEDBACK_INDEX_OTHER_=Other
+
+
+//----message after register---//
+
+_EMPLOYER_HEADER_OAUTH_=How to use API
+_ISSUED_HIRE_REQ_FOR_=Issued hire request for 
+_DELETE_HIRE_REQ_FOR_=deleted the hirenow request for 
+_APPLIED_FOR_=applied for 
+_AT_=at
+_IS_HIRING_A_=is hiring a 
+
+
+//DB table entry
+Retail Merchant=Retail Merchant
+Restaurant=Restaurant
+Motel/Hotel=Motel/Hotel
+Maintenance & Security=Maintenance &amp; Security
+Salesperson=Salesperson
+Cashier=Cashier
+Stock Clerk/Order Filler=Stock Clerk/Order Filler
+Freight-Materials Mover=Freight-Materials Mover
+1st Line Retail Supervisor=1st Line Retail Supervisor
+General Store Laborer=General Store Laborer
+Host/Hostess=Host/Hostess
+Waiter/Waitress=Waiter/Waitress
+Bartender=Bartender
+Food Prep/Serving=Food Prep/Serving
+Cooks - Restaurant=Cooks - Restaurant
+Cooks - Fast Food=Cooks - Fast Food
+Dishwasher/Busboy=Dishwasher/Busboy
+Housekeeper=Housekeeper
+Desk Clerks=Desk Clerks
+Laundry=Laundry
+General Staff / Assistance=General Staff / Assistance
+Janitor / Cleaner=Janitor / Cleaner
+Security Guards=Security Guards
+Groundskeeper=Groundskeeper
+General Maintenance/Repair=General Maintenance/Repair
+any=any
+any=any
+any=any
+any=any
+
+Entry level (less than 1 year)=Entry level (less than 1 year)
+Junior (1 to 3 years)=Junior (1 to 3 years)
+Senior (3+ years)=Senior (3+ years)
+
+Full-time=Full-time
+Part-time=Part-time
+Any=Any
+
+$8/hour or above=$8/hour or above
+$9/hour or above =$9/hour or above
+$10/hour or above =$10/hour or above
+$11/hour or above =$11/hour or above
+Any=Any
+
+Weekdays=Weekdays
+Weekends=Weekends
+Any=Any
+
+
+Day (8:00 am to 4:00 pm)=Day (8:00 am to 4:00 pm)
+Eve (4:00 pm to midnight)=Eve (4:00 pm to midnight)
+Night (midnight to 8:00 am)=Night (midnight to 8:00 am)
+
+
+
+
+//Header of seeker web 
+_SEEKER_HEADER_ABOUTME_=About me
+_SEEKER_HEADER_OCCUPATION_PREFERENCES_=Occupation
+_SEEKER_HEADER_MYPHONES_=My phones
+_SEEKER_HEADER_WORK_LOCATION_PREFERENCES_=Work/location
+_SEEKER_HEADER_COMMUNICATION_PREFERENCES_=Communication
+_SEEKER_HEADER_RECENT_HIRE_REQUEST_=Hire requests
+_SEEKER_HEADER_RECENT_ACTIVITY_=Recent activity
+_SEEKER_HEADER_ACCOUNT_SETTING_=Account settings
+_SEEKER_HEADER_CHANGE_PASSWORD_=Change password
+_SEEKER_HEADER_USE_API_=How to use API
+_SEEKER_HEADER_CLOSE_ACCOUNT_=Close account
+_SEEKER_HEADER_LIKE_TO_DO_=What would you like to do?
+_SEEKER_HEADER_LIKE_TO_UPDATE_=What would you like to update?
+_SEEKER_HEADER_UPDATE_PROFILE_=Update my profile
+_SEEKER_HEADER_CHECK_RECENT_=Check recent activity
+_SEEKER_HEADER_LIKE_TO_DO_=What would you like to do?
+
+
+//Application of seeker web  05/10/2012
+_SEEKER_APPLICATION_HEADER_=OAuth settings
+_SEEKER_APPLICATION_DESCRIPTION_=Your application's OAuth Settings. Keep the "Consumer secret" a secret. This key should never be human-readable in your application. 
+_SEEKER_APPLICATION_CONSUMER_KEY_=Consumer key
+_SEEKER_APPLICATION_CONSUMER_SECRET_=Consumer secret
+_SEEKER_APPLICATION_REDIRECT_URL_=Redirect url
+_SEEKER_APPLICATION_YOUR_ACCESS_TOKEN_=Your access token
+_SEEKER_APPLICATION_ACCESS_DESCRIPTION_=Use the access token string as your "oauth_token" and the access token secret as your "oauth_token_secret" to sign requests with your own _SITENAME_NO_CAPS_ account.<br/> Do not share your oauth_token_secret with anyone. 
+_SEEKER_APPLICATION_ACCESS_TOKEN_=Access token
+_SEEKER_APPLICATION_GENERATE_ACCESS_TOKEN_=Generate access token
+_SEEKER_APPLICATION_RECREATE_ACCESS_TOKEN_=Recreate my access token
+
+
+//Smsconversation of Seeker web   
+_SEEKER_SMSCONVERSATION_NO_=No
+_SEEKER_SMSCONVERSATION_PHONE_=Phone
+_SEEKER_SMSCONVERSATION_ME_=Me
+_SEEKER_SMSCONVERSATION_=_SITENAME_
+_SEEKER_SMSCONVERSATION_NO_CONVERSATION_=No conversation
+_SEEKER_SMSCONVERSATION_TIME_=Time
+
+
+//Location Seeker  07/10/2012
+_SEEKER_LOCATION_DELETE_QUESTION_=Are you sure you want to delete this location ?
+
+
+//Recent_activities Seeker  
+_SEEKER_RECENT_ACTIVITIES_GENERAL_=General
+_SEEKER_RECENT_ACTIVITIES_SMS_=SMS
+_SEEKER_RECENT_ACTIVITIES_NO_EMAIL_=No email
+_SEEKER_RECENT_ACTIVITIES_SHOW_TOOLKIT_=Show
+
+//Footer seeker 
+_SEEKER_FOOTER_TERMS_USE_=Terms of Use
+
+//Edit_profile Seeker
+_SEEKER_EDIT_PROFILE_DELETE_EMAIL_QUESTION_=Are you sure you want to delete email from account?
+
+//Communication Seeker
+_SEEKER_COMMUNICATION_TITLE_=My communication preferences
+
+//Close_account Seeker
+_SEEKER_CLOSE_ACCOUNT_TITLE_=Close Account
+
+//Change_password seeker
+_SEEKER_CHANGE_PASSWORD_TITLE_=Change password
+
+//Index Seeker
+_SEEKER_INDEX_HOME_=Home
+_SEEKER_INDEX_JOIN_=Join
+_SEEKER_INDEX_GET_ALERT_=to get alerts for hourly jobs from businesses in area of your interest.
+_SEEKER_INDEX_EASY_TO_USE_=Its very easy to use. Just setup your profile i.e. setup your:
+_SEEKER_INDEX_OCCUPATION_PREFERENCES_=Occupation preferences
+_SEEKER_INDEX_KIND_OF_JOB_=What kind of job you would like - salesperson, cashier, cook etc.
+_SEEKER_INDEX_DESIRED_PAYRANGE_=Desired pay range, job type (full time, part time) etc.
+_SEEKER_INDEX_WORK_LOCATION_PREFERENCES_=Work/location preferences
+_SEEKER_INDEX_SPECIFY_FULL_ADDRESS_= You can specify one or more 'Full street address, city name or zipcode' and distance around it to receive alerts whenever jobs matching your profile become available in those areas.
+_SEEKER_INDEX_COMMUNICATION_PREFERENCES_=Communication preferences
+_SEEKER_INDEX_EMAIL_ALERT_=How you want to receive alerts - email, phone, web only, mobile web app etc.
+_SEEKER_INDEX_COMM_DESCRIPTION_=Use this web interface, mobile web interface, our mobile apps or just use SMS (our number 4086457916).<br/>
+And, then you will receive an alert as soon as a job opens up and you can reply to show your interest in this job by SMS, email, web interface, mobile web, mobile app etc.<br/><br/>
+Come, join the revolution.
+_SMS_NUMBER_=4086457916
+
+
+//Aboutme Seeker
+_SEEKER_ABOUTME_CHANGE_AVATAR_=Change Avatar
+
+//Index seeker
+_SEEKER_HEADER_SETTINGS_=Settings
+
+//Header Employer
+_EMPLOYER_HEADER_ACCOUNT_SETTING_=Account Settings
+
+
+
+//Index Employer
+_EMPLOYER_INDEX_HOME_=Home
+_EMPLOYER_INDEX_JOIN_=Hiring is as easy as updating your business profile, update your personal profile and then clicking on hire now.
+_EMPLOYER_INDEX_GET_ALERT_=to get alerts for hourly jobs from businesses in area of your interest.
+_EMPLOYER_INDEX_EASY_TO_USE_=Its very easy to use. Just setup your profile i.e. setup your:
+_EMPLOYER_INDEX_OCCUPATION_PREFERENCES_=Occupation preferences
+_EMPLOYER_INDEX_KIND_OF_JOB_=What kind of job you would like - salesperson, cashier, cook etc.
+_EMPLOYER_INDEX_DESIRED_PAYRANGE_=Desired pay range, job type (full time, part time) etc.
+_EMPLOYER_INDEX_WORK_LOCATION_PREFERENCES_=Work/location preferences
+_EMPLOYER_INDEX_SPECIFY_FULL_ADDRESS_= You can specify one or more 'Full street address, city name or zipcode' and distance around it to receive alerts whenever jobs matching your profile become available in those areas.
+_EMPLOYER_INDEX_COMMUNICATION_PREFERENCES_=Communication preferences
+_EMPLOYER_INDEX_EMAIL_ALERT_=How you want to receive alerts - email, phone, web only, mobile web app etc.
+_EMPLOYER_INDEX_COMM_DESCRIPTION_=Use this web interface, mobile web interface, our mobile apps or just use SMS (our number 4086457916).<br/>
+And, then you will receive an alert as soon as a job opens up and you can reply to show your interest in this job by SMS, email, web interface, mobile web, mobile app etc.<br/><br/>
+Come, join the revolution.
+_SMS_NUMBER_=4086457916
+
+
+
+//Employer Header
+_EMPLOYER_HEADER_SUMMARY_=Statistics
+
+_EMPLOYER_HEADER_LIKE_TO_DO_=What would you like to do? 
+_EMPLOYER_HEADER_OCCUPATION_PREFERENCES_=My occupation preferences
+_EMPLOYER_HEADER_MYPHONES_=My phones
+_EMPLOYER_HEADER_WORK_LOCATION_PREFERENCES_=My work/location preferences
+_EMPLOYER_HEADER_LIKE_TO_UPDATE_=What would you like to update?
+_EMPLOYER_HEADER_PROFILE_=Profile
+_EMPLOYER_HEADER_UPDATE_PROFILE_=Update my profile
+_EMPLOYER_HEADER_RECENT_HIRE_REQUEST_=Hire requests
+_EMPLOYER_HIRENOW_=Hire now
+_EMPLOYER_LOCATION_MYLOCATION_=Locations
+_EMPLOYER_PHONE_MYPHONE_=My phones
+_EMPLOYER_OCCUPATION_MYOCCUPATION_=Occupations
+_EMPLOYER_PENDING_HIRE_REQUEST_=Hire requests
+_EMPLOYER_HEADER_BUSINESS_PROFILE_=Business profile
+_EMPLOYER_HEADER_ABOUT_ME_=About me
+_EMPLOYER_HEADER_MY_PROFILE_=My profile
+_EMPLOYER_HEADER_ABOUT_=About
+_EMPLOYER_COMMUNICATION_PREFERENCE_=My communication preferences
+_EMPLOYER_HEADER_UPDATE_BUSINESS_PROFILE_=Update business profile
+_EMPLOYER_HEADER_UPDATE_MY_PROFILE_=Update my profile
+_EMPLOYER_HEADER_HIRING_HISTORY_=Hiring history
+_EMPLOYER_ABOUT_ME_NAME_=Name
+
+//Aboutme Employer
+_EMPLOYER_ABOUTME_CHANGE_AVATAR_=Change avatar
+
+//Employer signup
+_USER_SIGNUP_EMPLOYER_SPAM_=Following math problem is to prevent automated SPAM submissions. <br />Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//Seeker signup
+_USER_SIGNUP_SEEKER_SPAM_=Following math problem is to prevent automated SPAM submissions. <br />Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//User Contact us
+_USER_CONTACT_US_SPAM_=Following math problem is to prevent automated SPAM submissions. <br />Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//User forgot password
+_USER_FORGOT_PASSWORD_SPAM_=Following math problem is to prevent automated SPAM submissions. <br />Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//User Activate
+_USER_ACTIVATE_SPAM_=Following math problem is to prevent automated SPAM submissions.<br /> Please type the result of following formula: (e.g. for 10 + 2, you should enter 12)
+
+//Billing Employer
+_EMPLOYER_BILLING_BILLING_=Billing
+_EMPLOYER_BILLING_SUMMARY_=Summary
+_EMPLOYER_BILLING_HISTORY_=History
+
+
+//Statistics Employer
+_EMPLOYER_STATISTICS_HISTORY_=History
+_EMPLOYER_STATISTICS_ACM_HISTORY_=Hire requests per account manager
+_EMPLOYER_STATISTICS_OCCUPATION_HISTORY_=Hire requests per occupation type
+
+//Header Employer
+_EMPLOYER_HEADER_SETTING_=Settings
+_EMPLOYER_HEADER_THEMES_=Themes
+_EMPLOYER_HEADER_THEME1_=Classic
+_EMPLOYER_HEADER_THEME2_=Corporate
+
+//Header Seeker
+_SEEKER_HEADER_PROFILE_=My profile
+
+//Employer index
+_EMPLOYER_INDEX_MYPROFILE_=My Profile
+
+//Login page
+_EMPLOYER_SIGNUP_BUTTON_=Employer's Sign Up Here
+_LOGIN_SIGNIN_BUTTON_=Sign in
+
+//Account_setting page
+_EMPLOYER_ACCOUNT_SETTING_DESC_=You can change your password, close your account or learn how to use API to access your accout programmatically.
+_EMPLOYER_ACCOUNT_SETTING_CHANGE_DESC_=You can change your password easily
+_EMPLOYER_ACCOUNT_SETTING_API_DESC_=This will guide you to use API. It will have secure data like consumer key, consumer token and access token
+_EMPLOYER_ACCOUNT_SETTING_CLOSE_DESC_=You can close your account by choosing the proper reason for closing your account anytime.
+
+//Theme page
+_EMPLOYER_THEME_SELECT_=Select theme below to change the current theme.
+_EMPLOYER_THEME_CLASSIC_THEME_=Classic theme
+_EMPLOYER_THEME_CORPORATE_THEME_=Corporate theme
+_EMPLOYER_THEME_THEMES_=Themes
+_EMPLOYER_THEME_CURRENTLY_=Currently, two themes are supported in _SITENAME_NO_CAPS_.com
+_EMPLOYER_THEME_CLICK_SELECT_= In classic theme, the workflows are guided while in corporate theme, all information is presented as dashboards.<br/>Please click on the buttons above to change the theme.
+
+//profile page
+_SEEKER_ABOUT_ME_ABOUT_DESC_=This will contain profile information of your account like email, name, social links, age and etc.
+_SEEKER_ABOUT_ME_PHONE_DESC_= All added phone number listing will be in my phones and you can add new phones and delete as well.
+_SEEKER_SOCIAL_LINKS_=Social links
+_EMPLOYER_SOCIAL_LINKS_=Social links
+
+//Index page employer
+_EMPLOYER_BASIC_INDEX_DESC_=Hiring is as easy as updating your business profile, update your personal profile and then clicking on hire now.
+_EMPLOYER_BASIC_INDEX_UPDATING_PROFILE_=Updating your business profile
+_EMPLOYER_BASIC_INDEX_BUSINESS_NAME_=Business name
+_EMPLOYER_BASIC_INDEX_BUSINESS_LOCATION_=Business locations
+_EMPLOYER_BASIC_INDEX_BUSINESS_TYPE_=Business type and Occupations at your business place
+_EMPLOYER_BASIC_INDEX_ADD_ACM_=Add one or more account managers
+_EMPLOYER_BASIC_INDEX_PERSONAL_PROFILE_=Updating your personal profile
+_EMPLOYER_BASIC_INDEX_NAME_EMAIL_=Your name, email
+_EMPLOYER_BASIC_INDEX_PHONE_=Your phone numbers
+_EMPLOYER_BASIC_INDEX_COMMUNICATION_=Your communication preferences
+
+//Summary page basic employer
+_EMPLOYER_BASIC_SUMMARY_DESC_=You can check billing as well as hiring history.
+_EMPLOYER_BASIC_SUMMARY_BILLING_DESC_=This will show you all billing summary records of the employer
+_EMPLOYER_BASIC_SUMMARY_HIRING_DESC_=This will give you all the record of hiring history like hire request sent, received seekers and etc.
+
+//About page advanced employer
+_EMPLOYER_ADVANCED_ABOUT_TITLE_=About business
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_TITLE_=About business (max 400 characters)
+_EMPLOYER_BASIC_ABOUT_BUSINESS_TITLE_=About business (max 400 characters)
+
+
+//Sms conversation page
+_SEEKER_SMS_COVERSATION_NO_NUMBER_=You have no phone added in your profile. You should add phone to start using SMS to interact with _SITENAME_NO_CAPS_.com. You can update your profile, receive alerts etc. using SMS (send SMS to 4086457482)
+
+//About business page
+_EMPLOYER_ABOUT_BUSINESS_WEBSITE_=Website
+_EMPLOYER_ABOUT_BUSINESS_DESCRIPTION_=Description (max 2000 characters)
+
+//SMS conversation page
+_MOBILE_EMPLOYER_FOOTER_SMS_CONVERSATION_=SMS Conversation
+
+//Phone seeker advanced 
+_SEEKER_ADVANCED_PHONE_CONFIRMATION_DIALOG_=Confirmation Dialog
+
+//Mobile Recent Activities
+_MOBILE_EMPLOYER_RECENT_ACTIVITIES_GENERAL_=General
+_MOBILE_EMPLOYER_RECENT_ACTIVITIES_SMS_=SMS
+
+//Mobile Statistic Page
+_MOBILE_EMPLOYER_STATISTIC_HIRING_HISTORY_=Hiring history
+_MOBILE_EMPLOYER_STATISTIC_OCCUPATIONS_STATISTICS_=Occupations statistics
+_MOBILE_EMPLOYER_STATISTIC_ACCOUNT_MANAGERS_STATISTICS_=Account managers statistics
+
+//Mobile Account_setting page
+_MOBILE_EMPLOYER_FOOTER_ACCOUNT_SETTING_=Account settings
+_MOBILE_EMPLOYER_ACCOUNT_SETTING_CLOSE_=Close my account
+
+//Password image
+_PASSWORD_IMAGE_=password_english.png
+
+//Mobile E index page
+_MOBILE_E_INDEX_DESCRIPTION_=Description
+_MOBILE_E_INDEX_PRIMARY_LOCATION_=Primary location
+_MOBILE_E_INDEX_OTHER_LOCATIONS_=Other Locations
+_MOBILE_E_INDEX_THE_USER_HAS_NOT_SETUP_PROFILE_=The user has not setup profile
+_MOBILE_E_INDEX_TRY_GOING_TO_THE_=Try going to the
+_MOBILE_E_INDEX_HOME_PAGE_AND_NAVIGATING_TO_YOUR_PAGE_FROM_THERE_=home page and navigating to your page from there.
+_MOBILE_E_INDEX_YOU_CAN_=You can
+_MOBILE_E_INDEX_CONTACT_US_=contact us
+_MOBILE_E_INDEX_IF_YOU_NEED_HELP_=if you need help.
+_MOBILE_E_INDEX_CONTACT_US_=contact us
+_MOBILE_E_INDEX_=_SITENAME_
+
+//Web employer basic about page
+_EMPLOYER_BASIC_ABOUT_BUSINESS_PROFILE_=Business profile
+_EMPLOYER_BASIC_ABOUT_EDIT_=Edit
+_EMPLOYER_BASIC_ABOUT_VIEW_MY_PUBLIC_PROFILE_=View my public profile
+_EMPLOYER_BASIC_ABOUT_HIDE_=Hide
+_EMPLOYER_BASIC_ABOUT_PUBLIC_PROFILE_=Public profile
+_EMPLOYER_BASIC_ABOUT_NOTE_=We offer you your own _SITENAME_NO_CAPS_ URL.Your _SITENAME_NO_CAPS_ URL is like your personal destination, or home, on the Web. You may want to personalize it so that people will have an easy-to-remember way to find you. 
+
+
+//Web employer basic  about javascript message page
+_EMPLOYER_BASIC_ABOUT_BUSINESS_JAVASCRIPT_=Please enter business profile
+_EMPLOYER_BASIC_ABOUT_LOGO_JAVASCRIPT_=Saving
+_EMPLOYER_BASIC_ABOUT_ABOUT_JAVASCRIPT_=Content could not be greater than 400 characters
+_EMPLOYER_BASIC_ABOUT_DESCRIPTION_JAVASCRIPT_=Content could not be greater than 2000 characters
+_EMPLOYER_BASIC_ABOUT_BUSINESS_LOGO_JAVASCRIPT_=Uploading
+_EMPLOYER_BASIC_ABOUT_NOT_VALID_JAVASCRIPT_=Not valid
+
+
+//Web employer advanced about
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_PROFILE_=Your business profile URL
+_EMPLOYER_ADVANCED_ABOUT_EDIT_=Click here to personalize
+_EMPLOYER_ADVANCED_ABOUT_VIEW_MY_PUBLIC_PROFILE_=View my public profile
+_EMPLOYER_ADVANCED_ABOUT_HIDE_=Hide
+_EMPLOYER_ADVANCED_ABOUT_PUBLIC_PROFILE_=Public profile
+_EMPLOYER_ADVANCED_ABOUT_NOTE_=We offer you your own _SITENAME_NO_CAPS_ URL.Your _SITENAME_NO_CAPS_ URL is like your personal destination, or home, on the Web. You may want to personalize it so that people will have an easy-to-remember way to find you.
+
+
+//Web employer advanced  about javascript message page
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_JAVASCRIPT_=Please enter business profile
+_EMPLOYER_ADVANCED_ABOUT_LOGO_JAVASCRIPT_=Saving
+_EMPLOYER_ADVANCED_ABOUT_ABOUT_JAVASCRIPT_=Content could not be greater than 400 characters
+_EMPLOYER_ADVANCED_ABOUT_DESCRIPTION_JAVASCRIPT_=Content could not be greater than 2000 characters
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_LOGO_JAVASCRIPT_=Uploading
+_EMPLOYER_ADVANCED_ABOUT_NOT_VALID_JAVASCRIPT_=Not Valid
+
+
+//web employer advanced recent activites page
+_EMPLOYER_ADVANCED_RECENT_ACTIVITES_PHONE_=Phone
+_EMPLOYER_ADVANCED_RECENT_ACTIVITES_TITLE_=Title
+_EMPLOYER_ADVANCED_RECENT_ACTIVITES_AGE_=Age
+_EMPLOYER_ADVANCED_RECENT_ACTIVITES_CLOSE_=Close
+_EMPLOYER_RECENT_ACTIVITES_ACCOUNT_=Account does not exist.
+_EMPLOYER_RECENT_ACTIVITES_SEEKER_ACCOUNT_=Seeker does not have an active account
+
+//web employer basic recent activites page
+_EMPLOYER_BASIC_RECENT_ACTIVITES_NO_ACTIVITY_POSTED_YET_=No activity posted yet.
+_EMPLOYER_BASIC_RECENT_ACTIVITES_TITLE_=Title
+_EMPLOYER_BASIC_RECENT_ACTIVITES_AGE_=Age
+_EMPLOYER_BASIC_RECENT_ACTIVITES_CLOSE_=Close
+_EMPLOYER_BASIC_RECENT_ACTIVITES_PHONE_=Phone
+
+//web seeker basic aboutme page
+_SEEKER_BASIC_ABOUTME_IMAGE_=Image is loading
+_SEEKER_BASIC_ABOUTME_MESSAGE_=Are you sure you want to delete this phone number?
+_SEEKER_BASIC_ABOUTME_MESSAGE1_=You auto logout and redirect to homepage.
+
+_SEEKER_BASIC_ABOUTME_HIDE_=Hide
+_SEEKER_BASIC_ABOUTME_PUBLIC_PROFILE_=Public Profile
+_SEEKER_BASIC_ABOUTME_PUBLIC_PROFILE_URL_=Public Profile URL
+_SEEKER_BASIC_ABOUTME_VIEW_MY_PROFILE_=View my Public Profile
+_SEEKER_BASIC_ABOUTME_NOTE_=We offer you your own _SITENAME_ URL.Your _SITENAME_ URL is like your personal destination, or home, on the Web. You may want to personalize it so that people will have an easy-to-remember way to find you. You can also edit your profile privacy settings so that you only share what you want to.
+
+
+//web seeker advanced aboutme page
+_SEEKER_ADVANCED_ABOUTME_EDIT_=Edit
+_SEEKER_ADVANCED_ABOUTME_HIDE_=Hide
+_SEEKER_ADVANCED_ABOUTME_PUBLIC_PROFILE_=Public profile
+_SEEKER_ADVANCED_ABOUTME_PUBLIC_PROFILE_URL_=Public profile URL
+_SEEKER_ADVANCED_ABOUTME_VIEW_MY_PROFILE_=View my public profile
+_SEEKER_ADVANCED_ABOUTME_NOTE_=We offer you your own _SITENAME_ URL.Your _SITENAME_ URL is like your personal destination, or home, on the Web. You may want to personalize it so that people will have an easy-to-remember way to find you. You can also edit your profile privacy settings so that you only share what you want to.
+
+
+//mobile employer about page
+_MOBILE_EMPLOYER_ABOUT_BUSINESS_PROFILE_=Business profile
+_MOBILE_EMPLOYER_ABOUT_VIEW_MY_PUBLIC_PROFILE_=View my public profile
+
+
+//mobile seeker aboutme page
+_MOBILE_EMPLOYER_ABOUT_ME_BUSINESS_PROFILE_=Business profile
+_MOBILE_EMPLOYER_ABOUT_ME_VIEW_MY_PUBLIC_PROFILE_=View my public profile
+
+
+//web basic u index page
+_WEB_BASIC_U_INDEX_EMAIL_=Email
+_WEB_BASIC_U_INDEX_AGE_=Age
+_WEB_BASIC_U_INDEX_EXPERIENCE_=Experience
+_WEB_BASIC_U_INDEX_PAY_RANGES_=Pay Ranges
+_WEB_BASIC_U_INDEX_WORK_SHIFTS_=Work Shifts
+_WEB_BASIC_U_INDEX_JOB_SHIFTS_=Job Shifts
+_WEB_BASIC_U_INDEX_OCCUPATION_=Occupation
+
+
+//web advanced u index page
+_WEB_ADVANCED_U_INDEX_EMAIL_=Email
+_WEB_ADVANCED_U_INDEX_AGE_=Age
+_WEB_ADVANCED_U_INDEX_EXPERIENCE_=Experience
+_WEB_ADVANCED_U_INDEX_PAY_RANGES_=Pay Ranges
+_WEB_ADVANCED_U_INDEX_WORK_SHIFTS_=Work Shifts
+_WEB_ADVANCED_U_INDEX_JOB_SHIFTS_=Job Shifts
+_WEB_ADVANCED_U_INDEX_OCCUPATION_=Occupation
+
+//Mobile job page 
+_MOBILE_NO_ACTIVE_JOBS_=No active jobs openings
+
+
+//Business Logo upload in employer side
+_UPLOAD_BUSINESS_LOGO_EMPLOYER_=Upload Business Logo
+_CHANGE_BUSINESS_LOGO_=Change Logo
+_UPLOAD_BUSINESS_LOGO_=Upload Logo
+
+
+_REGISTERED_USING_WEB_=registered using WEB.
+_REGISTERED_USING_MOBILE_WEB_ =registered using Mobile WEB.
+_REGISTERED_USING_SMS_=registered using SMS 
+_ACCEPTED_AGREEMENT_ON_=accepted agreement on 
+_CHANGE_PASSWORD_RECENT_ACTIVITIES_=changed password.
+_EMPLOYER_BASIC_ABOUT_OR_=or
+_POSTED_BY_=Posted by
+_ADD_PHONE_=Add Phone
+_SEEKER_LOCATION_EDIT_LOCATION_DETAIL_=Edit Location Detail
+_READ_MORE_=View more
+_EMPLOYER_INDEX_PENDING_REQUEST_DELETE_=Are you sure you want to delete this hire request ?
+_SELECT_PHONE_=Select Phone
+_BTN_CHECK_=Check validity
+
+//Mobile Footer
+_MOBILE_LOGIN_FOOTER_ABOUT_US_=About us
+_MOBILE_LOGIN_FOOTER_TERMS_=Terms and Conditions
+
+//Mobile Business Profile
+_MOBILE_BUSINESS_PROFILE_NO_DESCRIPTION_=Business description is not available at a moment
+_MOBILE_BUSINESS_PROFILE_FOOTER_ABOUTUS_=About us
+_MOBILE_BUSINESS_PROFILE_FOOTER_OUR_LOCATIONS_=Our locations
+_MOBILE_BUSINESS_PROFILE_FOOTER_JOBS_=Jobs
+_MOBILE_BUSINESS_PROFILE_FOOTER_POWERED_BY_=Powered by
+_MOBILE_BUSINESS_PROFILE_JOB_TITLE_=Job title
+_MOBILE_BUSINESS_PROFILE_JOB_ADDRESS_=Adress
+_MOBILE_BUSINESS_PROFILE_JOB_TYPE_=Job Type
+_MOBILE_BUSINESS_PROFILE_JOB_WORK_SCHEDULE_=Work Schedule
+_MOBILE_BUSINESS_PROFILE_JOB_WORK_SHIFT_=Work Shift
+_MOBILE_BUSINESS_PROFILE_JOB_AGE_=Age
+_MOBILE_BUSINESS_PROFILE_JOB_EXPERIENCE_=Experience
+_MOBILE_BUSINESS_PROFILE_JOB_PAYMENT_RANGE_=Payment Range
+_MOBILE_BUSINESS_PROFILE_JOB_POSTED_BY_=Posted by
+_MOBILE_BUSINESS_PROFILE_LOCATIONS_OUR_LOCATIONS_=Our Location(s)
+
+//Employer Header
+_EMPLOYER_HEADER_HIRE_REQUESTS_=Hire requests
+
+//Seeker Header
+_SEEKER_HEADER_HIRE_REQUESTS_=Hire requests
+
+//Recent Activity search types
+_RECENT_ALL_ACTIVITIES_=All
+_RECENT_MY_ACTIVITIES_=My
+_RECENT_OTHER_ACTIVITIES_=Other
+
+//Employer aboutme page
+_EMPLOYER_DELETE_NOW_=Delete now
+_EMPLOYER_DELETE_OR_VERIFY_=Please either delete or Verify your unverified number.
+_EMPLOYER_SPECIFY_PHONE_NUMBER_=Please specify the phone number.
+_EMPLOYER_ALREADY_VERIFIED_=You already have a verified number.If you add another previous one will be deleted.
+_EMPLOYER_ABOUTME_OR_=or
+
+//web seeker advanced aboutme page
+_SEEKER_ADVANCED_ABOUTME_IMAGE_=Image is loading
+_SEEKER_ADVANCED_ABOUTME_MESSAGE_=Are you sure you want to delete this phone number?
+_SEEKER_ADVANCED_ABOUTME_MESSAGE1_=You auto logout and redirect to homepage.
+
+//web employer advanced hire request page
+_EMPLOYER_ADVANCED_HIRE_REQUEST_JOB_=Job
+_EMPLOYER_ADVANCED_HIRE_REQUEST_JOB_ID_=Job id
+_EMPLOYER_ADVANCED_HIRE_REQUEST_CANDICATES_=Candidates
+_EMPLOYER_ADVANCED_HIRE_REQUEST_ADDRESS_=Address
+_EMPLOYER_ADVANCED_HIRE_REQUEST_POSTED_BY_=Posted by
+_EMPLOYER_ADVANCED_HIRE_REQUEST_POST_TIME_=Post time
+_EMPLOYER_ADVANCED_HIRE_REQUEST_ACTIONS_=Actions
+
+
+//web employer basic hire request page
+_EMPLOYER_BASIC_HIRE_REQUEST_JOB_=Job
+_EMPLOYER_BASIC_HIRE_REQUEST_JOB_ID_=Job Id
+_EMPLOYER_BASIC_HIRE_REQUEST_CANDICATES_=Candidates
+_EMPLOYER_BASIC_HIRE_REQUEST_ADDRESS_=Address
+_EMPLOYER_BASIC_HIRE_REQUEST_POSTED_BY_=Posted by
+_EMPLOYER_BASIC_HIRE_REQUEST_POST_TIME_=Post time
+_EMPLOYER_BASIC_HIRE_REQUEST_ACTIONS_=Actions
+
+
+//web seeker advanced hire request page
+_SEEKER_ADVANCED_HIRE_REQUEST_JOB_=Job
+_SEEKER_ADVANCED_HIRE_REQUEST_ADDRESS_=Address
+_SEEKER_ADVANCED_HIRE_REQUEST_POSTED_BY_=Posted by
+_SEEKER_ADVANCED_HIRE_REQUEST_POST_TIME_=Post time
+_SEEKER_ADVANCED_HIRE_REQUEST_ACTIONS_=Actions
+
+
+//web seeker basic hire request page
+_SEEKER_BASIC_HIRE_REQUEST_JOB_=Job
+_SEEKER_BASIC_HIRE_REQUEST_ADDRESS_=Address
+_SEEKER_BASIC_HIRE_REQUEST_POSTED_BY_=Posted by
+_SEEKER_BASIC_HIRE_REQUEST_POST_TIME_=Post time
+_SEEKER_BASIC_HIRE_REQUEST_ACTIONS_=Actions
+
+//Occupation page
+_EMPLOYER_OCCUPATION_PLEASE_LET_US_KNOW_=Please let us know what kind of occupations do you have at your business
+
+//Account 
+_MOBILE_SEEKER_ACCOUNT_=Account
+
+//Business profile images
+_BUSINESS_PROFILE_IMAGE_=Business profile image
+_UPLOAD_BUSINESS_PROFILE_IMAGE_=Upload
+_VIEW_BUSINESS_IMAGE_1_=View image1
+_VIEW_BUSINESS_IMAGE_2_=View image2
+_VIEW_BUSINESS_IMAGE_3_=View image3
+_VIEW_BUSINESS_IMAGE_4_=View image4
+_BUSINESS_PROFILE_IMAGE_POPUP_=Profile Image
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_DESC_=Your profile picture not uploaded yet, please click on upload button and upload <br />
+_EMPLOYER_ADVANCED_ABOUT_BUSINESS_DESC_1_=your profile picture for smarter business profile.
+_BUSINESS_PROFILE_IMAGE_NAME_=Business profile image
+
+
+//advanced e folder index page
+_ADVANCED_E_INDEX_BUSINESS_NAME1_=is an employer using
+_ADVANCED_E_INDEX_BUSINESS_NAME2_=for all hourly hiring needs.
+_ADVANCED_E_INDEX_BUSINESS_NAME3_=Please visit
+_ADVANCED_E_INDEX_BUSINESS_NAME4_=or send an SMS to 4086457482 to get started.
+_ADVANCED_E_INDEX_PRIMARY_LOCATION_=Primary location :
+_ADVANCED_E_INDEX_NO_LOCATION_=No location setup
+_ADVANCED_E_INDEX_KEEP_IN_CONTACT_=Keep in CONTACT
+_ADVANCED_E_INDEX_OTHER_LOCATION_=Other location(s) :
+_ADVANCED_E_INDEX_NOT_PROFILE_=The user has not setup profile
+_ADVANCED_E_INDEX_NOT_DESC1_=Try going to the
+_ADVANCED_E_INDEX_NOT_DESC2_=homepage and navigating to your page from there.
+_ADVANCED_E_INDEX_NOT_DESC3_=You can
+_ADVANCED_E_INDEX_NOT_DESC4_=contact us
+_ADVANCED_E_INDEX_NOT_DESC5_=if you need help.
+_ADVANCED_E_ACCOUNT_BUSINESS_PROFILE_=Business profile is not setup yet.
+_ADVANCED_E_INDEX_VIEW_MORE_=View more...
+
+//advanced e folder footer page
+_ADVANCED_E_FOOTER_POWER_BY_=Powered by
+_ADVANCED_E_FOOTER_ABOUT_US_=About us
+_ADVANCED_E_FOOTER_OUR_LOCATION_=Our locations
+_ADVANCED_E_FOOTER_JOBS_=Jobs
+
+
+//web Business Profile
+_WEB_BUSINESS_PROFILE_FOOTER_JOBS_=Jobs
+_WEB_BUSINESS_PROFILE_FOOTER_POWERED_BY_=Powered by
+_WEB_BUSINESS_PROFILE_JOB_TITLE_=Job title
+_WEB_BUSINESS_PROFILE_JOB_ADDRESS_=Adress
+_WEB_BUSINESS_PROFILE_JOB_TYPE_=Job type
+_WEB_BUSINESS_PROFILE_JOB_WORK_SCHEDULE_=Work schedule
+_WEB_BUSINESS_PROFILE_JOB_WORK_SHIFT_=Work shift
+_WEB_BUSINESS_PROFILE_JOB_AGE_=Age
+_WEB_BUSINESS_PROFILE_JOB_EXPERIENCE_=Experience
+_WEB_BUSINESS_PROFILE_JOB_PAYMENT_RANGE_=Payment range
+_WEB_BUSINESS_PROFILE_JOB_POSTED_BY_=Posted by
+_WEB_BUSINESS_PROFILE_LOCATIONS_OUR_LOCATIONS_=Our location(s)
+
+//Favourite section
+_FAVOURITES_=Favorites
+_FAVOURITE_SEEKER_IMAGE_=Image
+_NO_FAVOURITE_SEEKERS_=No favorite seekers.
+_FAVOURITE_SEEKERS_=Favorite seekers
+
+//MOBILE LOGIN PAGE
+_MOBILE_USER_LOGIN_=Login
+
+
+//MOBILE ACM STATISTICS PAGE
+_MOBILE_NO_ACCOUNT_MANAGER_=No hire request found
+
+
+//mobile occupation statistics page
+_NO_OCCUPATION_STATASTIC_FOUND_=No hire request
+
+//FORGOT PASSWORD CONFORMATION
+_FORGOT_PASSWORD_VERIFICATION_=Please use verification code from your email or sms for reset password request.
+  
+//BUSINESS PROFILE IMAGES ADDED
+_PROFILE_IMAGE_ADDED_SUCESSFULLY_=Profile image added successfully.
+
+
+//MOBILE SEEKER ADD LOCATION
+_MOBILE_SEEKER_ADD_LOCATION_RADIUS_=Radius
+
+
+//DELETE EMAIL ACCOUNT
+_ADVANCED_DELETE_EMAIL_ACCOUNT_=Are you sure you want to delete this email account?
+_BASIC_DELETE_EMAIL_ACCOUNT_=Are you sure you want to delete this email account?
+
+//ADVACED SMSCONVERSATION PAGE
+_ADVANCED_SMS_GEMERAL_=General
+_BASIC_SMS_GEMERAL_=General
+
+
+//MOBILE EMPLOYER SMS CONVERSATION PAGE
+_MOBILE_EMPLOYER_SMSCONVERSATION_SENT_BY_=Sent by:
+_MOBILE_EMPLOYER_SMSCONVERSATION_MESSAGE_=Message:
+_MOBILE_EMPLOYER_SMSCONVERSATION_TIME_=Time
+
+
+//MOBILE SEEKER SMS CONVERSATION PAGE
+_MOBILE_SEEKER_SMSCONVERSATION_SENT_BY_=Sent by:
+_MOBILE_SEEKER_SMSCONVERSATION_MESSAGE_=Message:
+_MOBILE_SEEKER_SMSCONVERSATION_TIME_=Time
+
+//MOBILE SEEKER HEADER PAGE
+_SEEKER_HEADER_PAGE_=Back to
+
+//MOBILE EMPLOYER HEADER PAGE
+_EMPLOYER_HEADER_PAGE_=Back to
+
+
+//WEB ADVANCED RECENT HIRE REQUEST PAGE
+_ADVANCED_SEEKER_APPLIED_JUST_NOW_=Applied just now
+
+
+//WEB BASIC RECENT HIRE REQUEST PAGE
+_BASIC_SEEKER_APPLIED_JUST_NOW_=Applied just now
+
+//FAVORITE SEEKERS
+_HAD_APPLIED_FOR_=Had applied for
+
+
+//Employer Index
+_EMPLOYER_ADVANCED_INDEX_LOCATION_=location
+_EMPLOYER_ADVANCED_INDEX_LOCATIONS_=locations
+
+//Mobile Footer
+_MOBILE_EMPLOYER_HEADER_BUSINESS_PROFILE_=My business
+_SEEKER_ACCOUNT_SETTING_=Account settings
+
+//Email to favorite seekers
+_EMAIL_SUBJECT_=Subject could not be greater than 50 characters
+_EMPTY_EMAIL_SUBJECT_=Please enter subject
+_EMAIL_BODY_=Message text could not be greater than 120 characters
+_EMPTY_EMAIL_BODY_=Please enter message text
+_MESSAGE_=Message
+_SUBJECT_=Subject
+_SEND_EMAIL_SMS_=Send Email/SMS
+
+
+//Home paga
+_HOME_LOGIN_EMPLOYER_QUOTE_=Hiring is as easy as texting "Hire cashier" to 4086457482. Get matching candidates that are actively looking for job in your area
+_HOME_LOGIN_SEEKER_QUOTE_=Use web, mobile web or your SMS to receive alerts for jobs based on your preferences of work/location, occupation type, etc.
+_HOME_LOGIN_EMPLOYER_EMPLOYERS_=Employers
+_HOME_LOGIN_SEEKER_SEEKERS_=Seekers
+_HOME_LOGIN_NEWS_=News
+_HOME_LOGIN_MOBILE_=Mobile: The Next Recruiting Revolution
+_HOME_LOGIN_VISIT_=Visit Finditnear.com at 1st mobile recruiting conference
+
+
+_LEFT_VIEW_UPLOAD_AVATAR_=Upload Profile Picture

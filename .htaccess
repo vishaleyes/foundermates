@@ -1,0 +1,14 @@
+RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} ^www.izemapps.com/nextmad [NC]
+#RewriteRule ^(.*)$ izemapps.com/nextmade/$1 [L,R=301]
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+
+RewriteRule ^(.*)$ index.php?r=$1 [PT,L]
+RewriteRule ^admin.*$ index.php?r=admin
+RewriteRule ^api.*$ index.php?r=site
